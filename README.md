@@ -204,9 +204,6 @@ This project is for educational and research purposes. FPL data is sourced from 
 
 ## Acknowledgments
 
-- **Fantasy-Premier-League Repository**: Primary data source for FPL statistics
-- **Optuna**: Hyperparameter optimization framework
-- **SHAP/LIME**: Model interpretability libraries
-- **TensorFlow/PyTorch**: Deep learning frameworks
+- **Fantasy-Premier-League Repository**: Primary data source for FPL statistics (https://github.com/vaastav/Fantasy-Premier-League)
 
 *This project demonstrates the application of advanced machine learning techniques to fantasy sports analytics, combining traditional ML, deep learning, and optimization algorithms in a production-ready system.*
