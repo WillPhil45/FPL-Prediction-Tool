@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.124893665313721,21,Yes,100,4.124893665313721,david raya martin,1,False,1,-3.1248936653137207
+William Saliba,DEF,3.906135082244873,21,Yes,100,3.906135082244873,william saliba,0,False,0,-3.906135082244873
+Tyrick Mitchell,DEF,3.760575532913208,21,Yes,100,3.760575532913208,tyrick mitchell,6,False,6,2.239424467086792
+Virgil van Dijk,DEF,3.818691730499268,21,Yes,100,3.818691730499268,virgil van dijk,6,False,6,2.181308269500732
+Mohamed Salah,MID,6.291633605957031,21,Yes,100,6.291633605957031,mohamed salah,3,True,6,-3.2916336059570312
+Bryan Mbeumo,MID,4.419279098510742,21,Yes,100,4.419279098510742,bryan mbeumo,2,False,2,-2.419279098510742
+Alex Iwobi,MID,4.241884231567383,21,Yes,100,4.241884231567383,alex iwobi,1,False,1,-3.241884231567383
+Cole Palmer,MID,5.539031505584717,21,Yes,100,5.539031505584717,cole palmer,2,False,2,-3.539031505584717
+Kevin De Bruyne,MID,4.698299884796143,21,Yes,100,4.698299884796143,kevin de bruyne,12,False,12,7.301700115203857
+Cody Gakpo,FWD,4.205199241638184,21,Yes,100,4.205199241638184,cody gakpo,2,False,2,-2.2051992416381836
+Alexander Isak,FWD,4.575475692749023,21,Yes,100,4.575475692749023,alexander isak,2,False,2,-2.5754756927490234

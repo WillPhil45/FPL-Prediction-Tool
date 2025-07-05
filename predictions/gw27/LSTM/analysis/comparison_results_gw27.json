@@ -1,0 +1,16 @@
+{
+    "common_players_count": 3,
+    "common_players_percentage": 27.27272727272727,
+    "common_players": [
+        "Marc Cucurella Saseta",
+        "Mohamed Salah",
+        "Bruno Borges Fernandes"
+    ],
+    "predicted_formation": "5-3-2",
+    "actual_formation": "4-3-3",
+    "predicted_total": 72.58534669876099,
+    "actual_total": 111.0,
+    "point_differential": 38.414653301239014,
+    "adjusted_total": 72.58534669876099,
+    "adjusted_differential": 38.414653301239014
+}

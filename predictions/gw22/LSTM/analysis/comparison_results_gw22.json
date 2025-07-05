@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Alexander Isak",
+        "David Raya Martin"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 80.50587940216064,
+    "actual_total": 134.0,
+    "point_differential": 53.494120597839355,
+    "adjusted_total": 78.24073314666748,
+    "adjusted_differential": 55.75926685333252
+}

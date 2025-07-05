@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Jo\u0161ko Gvardiol"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "4-3-3",
+    "predicted_total": 45.56738438487661,
+    "actual_total": 108.0,
+    "point_differential": 62.43261561512339,
+    "adjusted_total": 45.56738438487661,
+    "adjusted_differential": 62.43261561512339
+}

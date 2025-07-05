@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,3.4639910673579832,3,Yes,100,3.4639910673579832,ederson santana de moraes,7,False,7,3.5360089326420168
+Virgil van Dijk,DEF,3.231097200668491,3,Yes,100,3.231097200668491,virgil van dijk,2,False,2,-1.2310972006684908
+Leif Davis,DEF,3.829900053910389,3,Yes,100,3.829900053910389,leif davis,6,False,6,2.170099946089611
+Joško Gvardiol,DEF,3.553892221510194,3,Yes,100,3.553892221510194,joško gvardiol,1,False,1,-2.553892221510194
+William Saliba,DEF,3.8142472956854,3,Yes,100,3.8142472956854,william saliba,5,False,5,1.1857527043146
+Noussair Mazraoui,DEF,3.266015741411796,3,Yes,100,3.266015741411796,noussair mazraoui,6,False,6,2.733984258588204
+Son Heung-min,MID,5.631311365136115,3,Yes,100,5.631311365136115,son heung-min,2,False,2,-3.6313113651361153
+Mohamed Salah,MID,6.531783488289413,3,Yes,100,6.531783488289413,mohamed salah,2,True,4,-4.531783488289413
+Bukayo Saka,MID,5.7308885741531705,3,Yes,100,5.7308885741531705,bukayo saka,7,False,7,1.2691114258468295
+Ollie Watkins,FWD,4.581556858747562,3,Yes,100,4.581556858747562,ollie watkins,13,False,13,8.418443141252439
+Alexander Isak,FWD,6.093711547442483,3,Yes,100,6.093711547442483,alexander isak,1,False,1,-5.093711547442483

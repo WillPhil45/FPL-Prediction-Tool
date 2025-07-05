@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,3.527692711744079,13,Yes,100,3.527692711744079,andré onana,2,False,2,-1.5276927117440788
+Aaron Wan-Bissaka,DEF,3.578037154749333,13,Yes,100,3.578037154749333,aaron wan-bissaka,1,False,1,-2.578037154749333
+William Saliba,DEF,3.441250611306544,13,Yes,100,3.441250611306544,william saliba,15,False,15,11.558749388693457
+Virgil van Dijk,DEF,3.465931972521076,13,Yes,100,3.465931972521076,virgil van dijk,1,False,1,-2.465931972521076
+Pedro Porro,DEF,3.660785564294109,13,Yes,100,3.660785564294109,pedro porro,1,False,1,-2.660785564294109
+Cole Palmer,MID,5.775438397862781,13,Yes,100,5.775438397862781,cole palmer,7,False,7,1.2245616021372188
+Bukayo Saka,MID,5.8741274472146845,13,Yes,100,5.8741274472146845,bukayo saka,3,False,3,-2.8741274472146845
+Mohamed Salah,MID,7.0007447757052645,13,Yes,100,7.0007447757052645,mohamed salah,18,True,36,10.999255224294735
+Nicolas Jackson,FWD,3.8358669313768328,13,Yes,100,3.8358669313768328,nicolas jackson,0,False,0,-3.8358669313768328
+Jørgen Strand Larsen,FWD,3.5640713668576263,13,Yes,100,3.5640713668576263,jørgen strand larsen,2,False,2,-1.5640713668576263
+João Pedro Junqueira de Jesus,FWD,3.697314906824724,13,Yes,100,3.697314906824724,joão pedro junqueira de jesus,5,False,5,1.3026850931752758

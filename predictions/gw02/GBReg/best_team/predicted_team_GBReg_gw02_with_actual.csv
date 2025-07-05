@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bernd Leno,GK,3.8358890222929536,2,Yes,100,3.8358890222929536,bernd leno,3,False,3,-0.8358890222929536
+William Saliba,DEF,4.324018080619267,2,Yes,100,4.324018080619267,william saliba,2,False,2,-2.3240180806192674
+Joško Gvardiol,DEF,3.7574368231141024,2,Yes,100,3.7574368231141024,joško gvardiol,2,False,2,-1.7574368231141024
+Andrew Robertson,DEF,3.9195508570036486,2,Yes,100,3.9195508570036486,andrew robertson,6,False,6,2.0804491429963514
+Martin Ødegaard,MID,4.429989540913678,2,Yes,100,4.429989540913678,martin ødegaard,2,False,2,-2.4299895409136782
+Bukayo Saka,MID,6.021438794993111,2,Yes,100,6.021438794993111,bukayo saka,6,False,6,-0.021438794993111188
+Mohamed Salah,MID,6.567799213053019,2,Yes,100,6.567799213053019,mohamed salah,17,True,34,10.432200786946982
+Kevin De Bruyne,MID,5.056601091725796,2,Yes,100,5.056601091725796,kevin de bruyne,1,False,1,-4.056601091725796
+Cole Palmer,MID,4.6653749418520425,2,Yes,100,4.6653749418520425,cole palmer,6,False,6,1.3346250581479575
+Danny Welbeck,FWD,4.965932915029141,2,Yes,100,4.965932915029141,danny welbeck,2,False,2,-2.965932915029141
+Alexander Isak,FWD,4.365550469089639,2,Yes,100,4.365550469089639,alexander isak,9,False,9,4.634449530910361

@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Diogo Dalot Teixeira",
+        "Ollie Watkins"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 54.547423061131475,
+    "actual_total": 133.0,
+    "point_differential": 78.45257693886853,
+    "adjusted_total": 54.547423061131475,
+    "adjusted_differential": 78.45257693886853
+}

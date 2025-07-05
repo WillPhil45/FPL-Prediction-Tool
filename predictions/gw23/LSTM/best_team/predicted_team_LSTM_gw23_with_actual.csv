@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,4.845573902130127,23,Yes,100,4.845573902130127,andré onana,1,False,1,-3.845573902130127
+Lucas Digne,DEF,3.2127981185913086,23,Yes,100,3.2127981185913086,lucas digne,1,False,1,-2.2127981185913086
+Andrew Robertson,DEF,2.88560438156128,23,Yes,100,2.88560438156128,andrew robertson,1,False,1,-1.8856043815612802
+Marc Cucurella Saseta,DEF,3.682354927062988,23,Yes,100,3.682354927062988,marc cucurella saseta,2,False,2,-1.6823549270629878
+Virgil van Dijk,DEF,3.080759048461914,23,Yes,100,3.080759048461914,virgil van dijk,1,False,1,-2.080759048461914
+Cole Palmer,MID,10.304218292236328,23,Yes,100,10.304218292236328,cole palmer,6,False,6,-4.304218292236328
+Bryan Mbeumo,MID,8.451225280761719,23,Yes,100,8.451225280761719,bryan mbeumo,2,False,2,-6.451225280761719
+Mohamed Salah,MID,14.62445831298828,23,Yes,100,14.62445831298828,mohamed salah,13,True,26,-1.6244583129882795
+Ollie Watkins,FWD,5.366562843322754,23,Yes,100,5.366562843322754,ollie watkins,1,False,1,-4.366562843322754
+Alexander Isak,FWD,6.464698791503906,23,Yes,100,6.464698791503906,alexander isak,2,False,2,-4.464698791503906
+Jean-Philippe Mateta,FWD,4.9099225997924805,23,Yes,100,4.9099225997924805,jean-philippe mateta,13,False,13,8.09007740020752

@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "J\u00f8rgen Strand Larsen"
+    ],
+    "predicted_formation": "5-3-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 43.61700366093745,
+    "actual_total": 98.0,
+    "point_differential": 54.38299633906255,
+    "adjusted_total": 43.61700366093745,
+    "adjusted_differential": 54.38299633906255
+}

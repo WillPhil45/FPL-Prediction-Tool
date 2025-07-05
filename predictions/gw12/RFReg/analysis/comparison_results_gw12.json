@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Murillo Santiago Costa dos Santos"
+    ],
+    "predicted_formation": "5-3-2",
+    "actual_formation": "5-3-2",
+    "predicted_total": 47.178748869173866,
+    "actual_total": 133.0,
+    "point_differential": 85.82125113082614,
+    "adjusted_total": 47.178748869173866,
+    "adjusted_differential": 85.82125113082614
+}

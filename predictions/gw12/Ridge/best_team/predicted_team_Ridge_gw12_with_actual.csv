@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.013157158968373,12,Yes,100,4.013157158968373,david raya martin,2,False,2,-2.013157158968373
+Joško Gvardiol,DEF,3.5627059582065,12,Yes,100,3.5627059582065,joško gvardiol,0,False,0,-3.5627059582065
+Noussair Mazraoui,DEF,3.210015844614665,12,Yes,100,3.210015844614665,noussair mazraoui,1,False,1,-2.210015844614665
+Andrew Robertson,DEF,3.2914879449556103,12,Yes,100,3.2914879449556103,andrew robertson,6,False,6,2.7085120550443897
+Virgil van Dijk,DEF,3.841573268822674,12,Yes,100,3.841573268822674,virgil van dijk,6,False,6,2.158426731177326
+Ashley Young,DEF,3.420423411403848,12,Yes,100,3.420423411403848,ashley young,-1,False,-1,-4.420423411403847
+Mohamed Salah,MID,7.403186686977545,12,Yes,100,7.403186686977545,mohamed salah,13,True,26,5.596813313022455
+Cole Palmer,MID,6.015045904779626,12,Yes,100,6.015045904779626,cole palmer,14,False,14,7.984954095220374
+Bukayo Saka,MID,5.724263519439914,12,Yes,100,5.724263519439914,bukayo saka,18,False,18,12.275736480560086
+Dominic Solanke-Mitchell,FWD,5.2086512224103405,12,Yes,100,5.2086512224103405,dominic solanke-mitchell,0,False,0,-5.2086512224103405
+Nicolas Jackson,FWD,4.874219369027314,12,Yes,100,4.874219369027314,nicolas jackson,6,False,6,1.1257806309726863

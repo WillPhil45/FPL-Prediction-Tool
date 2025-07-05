@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,3.890491247177124,8,Yes,100,3.890491247177124,andré onana,1,False,1,-2.890491247177124
+Nikola Milenković,DEF,3.3594741821289062,8,Yes,100,3.3594741821289062,nikola milenković,1,False,1,-2.3594741821289062
+Joško Gvardiol,DEF,3.954150676727295,8,Yes,100,3.954150676727295,joško gvardiol,9,False,9,5.045849323272705
+Ashley Young,DEF,3.3326191902160645,8,Yes,100,3.3326191902160645,ashley young,6,False,6,2.6673808097839355
+Mohamed Salah,MID,4.919646739959717,8,Yes,100,4.919646739959717,mohamed salah,10,False,10,5.080353260040283
+Son Heung-min,MID,4.1884050369262695,8,Yes,100,4.1884050369262695,son heung-min,0,False,0,-4.1884050369262695
+Bryan Mbeumo,MID,4.643250942230225,8,Yes,100,4.643250942230225,bryan mbeumo,15,False,15,10.356749057769775
+Cole Palmer,MID,5.556449890136719,8,Yes,100,5.556449890136719,cole palmer,10,True,20,4.443550109863281
+Francisco Evanilson de Lima Barbosa,FWD,3.1155035495758057,8,Yes,100,3.1155035495758057,francisco evanilson de lima barbosa,8,False,8,4.884496450424194
+Nicolas Jackson,FWD,4.508881092071533,8,Yes,100,4.508881092071533,nicolas jackson,9,False,9,4.491118907928467
+Ollie Watkins,FWD,3.490454196929932,8,Yes,100,3.490454196929932,ollie watkins,2,False,2,-1.490454196929932

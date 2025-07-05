@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Jo\u0161ko Gvardiol",
+        "Bryan Mbeumo"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "4-3-3",
+    "predicted_total": 49.95012812094569,
+    "actual_total": 108.0,
+    "point_differential": 58.04987187905431,
+    "adjusted_total": 49.95012812094569,
+    "adjusted_differential": 58.04987187905431
+}

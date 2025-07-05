@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,3.7957701492738094,12,Yes,100,3.7957701492738094,jordan pickford,0,False,0,-3.7957701492738094
+Noussair Mazraoui,DEF,3.568748547643288,12,Yes,100,3.568748547643288,noussair mazraoui,1,False,1,-2.568748547643288
+Diogo Dalot Teixeira,DEF,3.5393108229398464,12,Yes,100,3.5393108229398464,diogo dalot teixeira,6,False,6,2.4606891770601536
+William Saliba,DEF,3.99567779073757,12,Yes,100,3.99567779073757,william saliba,1,False,1,-2.99567779073757
+Mohamed Salah,MID,8.425061375079139,12,Yes,100,8.425061375079139,mohamed salah,13,True,26,4.574938624920861
+Bukayo Saka,MID,5.371641080646943,12,Yes,100,5.371641080646943,bukayo saka,18,False,18,12.628358919353058
+Bryan Mbeumo,MID,5.592681681322071,12,Yes,100,5.592681681322071,bryan mbeumo,2,False,2,-3.5926816813220714
+Cole Palmer,MID,7.094067425998874,12,Yes,100,7.094067425998874,cole palmer,14,False,14,6.905932574001126
+Nicolas Jackson,FWD,3.7373271666210033,12,Yes,100,3.7373271666210033,nicolas jackson,6,False,6,2.2626728333789967
+Francisco Evanilson de Lima Barbosa,FWD,3.613732712570376,12,Yes,100,3.613732712570376,francisco evanilson de lima barbosa,12,False,12,8.386267287429623
+Dominic Solanke-Mitchell,FWD,4.669229677323274,12,Yes,100,4.669229677323274,dominic solanke-mitchell,0,False,0,-4.669229677323274

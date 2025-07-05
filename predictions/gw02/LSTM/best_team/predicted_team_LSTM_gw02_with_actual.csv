@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.781322002410889,2,Yes,100,4.781322002410889,david raya martin,2,False,2,-2.7813220024108887
+Murillo Santiago Costa dos Santos,DEF,3.760731220245361,2,Yes,100,3.760731220245361,murillo santiago costa dos santos,2,False,2,-1.7607312202453609
+Andrew Robertson,DEF,4.125825881958008,2,Yes,100,4.125825881958008,andrew robertson,6,False,6,1.8741741180419922
+Nikola Milenković,DEF,3.869462013244629,2,Yes,100,3.869462013244629,nikola milenković,2,False,2,-1.869462013244629
+Ibrahima Konaté,DEF,3.574728488922119,2,Yes,100,3.574728488922119,ibrahima konaté,6,False,6,2.425271511077881
+Bukayo Saka,MID,13.890176773071287,2,Yes,100,13.890176773071287,bukayo saka,6,True,12,-7.890176773071287
+Diogo Teixeira da Silva,MID,8.185107231140137,2,Yes,100,8.185107231140137,diogo teixeira da silva,3,False,3,-5.185107231140137
+Mohamed Salah,MID,13.607759475708008,2,Yes,100,13.607759475708008,mohamed salah,17,False,17,3.392240524291992
+Kevin De Bruyne,MID,7.605426788330078,2,Yes,100,7.605426788330078,kevin de bruyne,1,False,1,-6.605426788330078
+Danny Welbeck,FWD,6.466151237487793,2,Yes,100,6.466151237487793,danny welbeck,2,False,2,-4.466151237487793
+Chris Wood,FWD,6.85617208480835,2,Yes,75,5.142129063606262,chris wood,9,False,9,2.1438279151916504

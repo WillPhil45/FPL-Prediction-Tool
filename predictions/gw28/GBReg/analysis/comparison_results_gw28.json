@@ -1,0 +1,12 @@
+{
+    "common_players_count": 0,
+    "common_players_percentage": 0.0,
+    "common_players": [],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "4-4-2",
+    "predicted_total": 48.49212961859991,
+    "actual_total": 125.0,
+    "point_differential": 76.5078703814001,
+    "adjusted_total": 47.26649762684049,
+    "adjusted_differential": 77.73350237315951
+}

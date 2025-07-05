@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,5.08877420425415,8,Yes,100,5.08877420425415,andré onana,1,False,1,-4.08877420425415
+Nikola Milenković,DEF,3.35026216506958,8,Yes,100,3.35026216506958,nikola milenković,1,False,1,-2.35026216506958
+Joško Gvardiol,DEF,3.6286659240722656,8,Yes,100,3.6286659240722656,joško gvardiol,9,False,9,5.371334075927734
+Murillo Santiago Costa dos Santos,DEF,3.8079328536987305,8,Yes,100,3.8079328536987305,murillo santiago costa dos santos,2,False,2,-1.8079328536987305
+Bruno Borges Fernandes,MID,14.730424880981444,8,Yes,100,14.730424880981444,bruno borges fernandes,2,True,4,-12.730424880981444
+Ryan Fraser,MID,6.873743534088135,8,Yes,100,6.873743534088135,ryan fraser,0,False,0,-6.873743534088135
+Cole Palmer,MID,11.239583969116213,8,Yes,100,11.239583969116213,cole palmer,10,False,10,-1.2395839691162127
+Bryan Mbeumo,MID,7.63181734085083,8,Yes,100,7.63181734085083,bryan mbeumo,15,False,15,7.36818265914917
+Mohamed Salah,MID,10.949113845825195,8,Yes,100,10.949113845825195,mohamed salah,10,False,10,-0.9491138458251953
+Nicolas Jackson,FWD,4.384822368621826,8,Yes,100,4.384822368621826,nicolas jackson,9,False,9,4.615177631378174
+Ollie Watkins,FWD,4.533481597900391,8,Yes,100,4.533481597900391,ollie watkins,2,False,2,-2.5334815979003906

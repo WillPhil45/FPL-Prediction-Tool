@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.580021503382824,14,Yes,100,3.580021503382824,david raya martin,2,False,2,-1.5800215033828242
+Aaron Wan-Bissaka,DEF,3.38740353877673,14,Yes,100,3.38740353877673,aaron wan-bissaka,2,False,2,-1.3874035387767298
+William Saliba,DEF,3.806971085021621,14,Yes,100,3.806971085021621,william saliba,9,False,9,5.193028914978379
+Lucas Digne,DEF,3.751694254744224,14,Yes,100,3.751694254744224,lucas digne,1,False,1,-2.751694254744224
+Bukayo Saka,MID,5.808737988807156,14,Yes,100,5.808737988807156,bukayo saka,2,False,2,-3.808737988807156
+Kevin De Bruyne,MID,4.6378936875269945,14,Yes,100,4.6378936875269945,kevin de bruyne,2,False,2,-2.6378936875269945
+Bryan Mbeumo,MID,5.134385143273787,14,Yes,100,5.134385143273787,bryan mbeumo,13,False,13,7.865614856726213
+Cole Palmer,MID,6.08245809341053,14,Yes,100,6.08245809341053,cole palmer,18,True,36,11.91754190658947
+Francisco Evanilson de Lima Barbosa,FWD,3.6060153963875248,14,Yes,100,3.6060153963875248,francisco evanilson de lima barbosa,2,False,2,-1.6060153963875248
+Alexander Isak,FWD,4.820287615046838,14,Yes,100,4.820287615046838,alexander isak,8,False,8,3.179712384953162
+Ollie Watkins,FWD,3.910982373322286,14,Yes,100,3.910982373322286,ollie watkins,1,False,1,-2.910982373322286

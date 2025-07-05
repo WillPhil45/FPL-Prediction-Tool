@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Robert S\u00e1nchez",
+        "Luis D\u00edaz"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "3-4-3",
+    "predicted_total": 82.36141109466553,
+    "actual_total": 121.0,
+    "point_differential": 38.63858890533447,
+    "adjusted_total": 82.36141109466553,
+    "adjusted_differential": 38.63858890533447
+}

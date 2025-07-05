@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Dominic Solanke-Mitchell"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "3-5-2",
+    "predicted_total": 44.145983934402466,
+    "actual_total": 121.0,
+    "point_differential": 76.85401606559753,
+    "adjusted_total": 44.145983934402466,
+    "adjusted_differential": 76.85401606559753
+}

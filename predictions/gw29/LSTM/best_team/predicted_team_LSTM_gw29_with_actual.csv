@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,5.751185417175293,29,Yes,100,5.751185417175293,david raya martin,2,False,2,-3.751185417175293
+Konstantinos Mavropanos,DEF,3.6515684127807617,29,Yes,100,3.6515684127807617,konstantinos mavropanos,1,False,1,-2.6515684127807617
+Jurriën Timber,DEF,3.534792423248291,29,Yes,100,3.534792423248291,jurriën timber,7,False,7,3.465207576751709
+Marc Cucurella Saseta,DEF,3.9961094856262207,29,Yes,100,3.9961094856262207,marc cucurella saseta,5,False,5,1.0038905143737793
+William Saliba,DEF,3.885047435760498,29,Yes,100,3.885047435760498,william saliba,2,False,2,-1.885047435760498
+Morgan Gibbs-White,MID,8.394392013549805,29,Yes,100,8.394392013549805,morgan gibbs-white,3,False,3,-5.394392013549805
+Bryan Mbeumo,MID,6.876228332519531,29,Yes,100,6.876228332519531,bryan mbeumo,8,False,8,1.1237716674804688
+Cole Palmer,MID,6.095357894897461,29,Yes,100,6.095357894897461,cole palmer,6,False,6,-0.09535789489746094
+Bruno Borges Fernandes,MID,23.712661743164062,29,Yes,100,23.712661743164062,bruno borges fernandes,2,True,4,-21.712661743164062
+Jamie Vardy,FWD,3.9955103397369385,29,Yes,100,3.9955103397369385,jamie vardy,0,False,0,-3.9955103397369385
+Chris Wood,FWD,6.592417240142822,29,Yes,75,4.944312930107117,chris wood,0,False,0,-6.592417240142822

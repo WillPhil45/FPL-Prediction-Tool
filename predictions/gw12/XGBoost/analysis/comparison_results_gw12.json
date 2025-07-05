@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Francisco Evanilson de Lima Barbosa"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "5-3-2",
+    "predicted_total": 52.70093822479248,
+    "actual_total": 133.0,
+    "point_differential": 80.29906177520752,
+    "adjusted_total": 52.70093822479248,
+    "adjusted_differential": 80.29906177520752
+}

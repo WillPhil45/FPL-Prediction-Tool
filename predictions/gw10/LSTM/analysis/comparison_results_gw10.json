@@ -1,0 +1,16 @@
+{
+    "common_players_count": 3,
+    "common_players_percentage": 27.27272727272727,
+    "common_players": [
+        "James Tarkowski",
+        "Bruno Borges Fernandes",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "5-2-3",
+    "predicted_total": 63.76694321632385,
+    "actual_total": 115.0,
+    "point_differential": 51.23305678367615,
+    "adjusted_total": 62.348912715911865,
+    "adjusted_differential": 52.651087284088135
+}

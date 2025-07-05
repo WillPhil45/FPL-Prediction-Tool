@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Yoane Wissa"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "4-4-2",
+    "predicted_total": 54.375845490184886,
+    "actual_total": 126.0,
+    "point_differential": 71.62415450981511,
+    "adjusted_total": 54.375845490184886,
+    "adjusted_differential": 71.62415450981511
+}

@@ -1,0 +1,12 @@
+name,position,team,xP,assists,bonus,bps,clean_sheets,creativity,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,starts,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,position_label
+Daniel Muñoz,DEF,Crystal Palace,4.0,0,3,20,0,12.7,211,0.02,0.9,0.88,0.04,124,1,1,12.2,62.6,2024-11-30T15:00:00Z,90,False,15,0,0,0,0,13,0,171775,1,1,1,47.0,11,-4274,3284,7558,48,True,0,DEF
+Marc Cucurella Saseta,DEF,Chelsea,4.3,1,2,38,1,6.0,163,0.03,0.03,0.0,1.15,123,0,0,2.8,20.2,2024-12-01T13:30:00Z,90,False,2,0,0,0,0,13,0,477973,1,0,3,2.0,11,5958,23333,17375,50,True,0,DEF
+Gabriel dos Santos Magalhães,DEF,Arsenal,4.3,1,0,20,0,0.7,3,0.0,0.2,0.2,0.7,129,2,1,7.8,42.2,2024-11-30T17:30:00Z,45,False,19,0,0,0,0,13,0,2647421,1,5,2,35.0,9,117627,193071,75444,62,False,0,DEF
+Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,5.2,0,1,26,1,6.4,436,0.0,0.22,0.22,0.59,127,0,0,7.1,29.6,2024-11-30T15:00:00Z,90,False,10,0,0,0,0,13,0,321926,1,0,1,35.0,7,57029,66723,9694,46,True,0,DEF
+Virgil van Dijk,DEF,Liverpool,4.5,0,0,25,1,0.5,339,0.02,0.37,0.35,0.82,125,0,0,7.1,26.0,2024-12-01T16:00:00Z,90,False,13,0,0,0,0,13,0,2428916,1,0,2,44.0,6,67135,126577,59442,63,True,0,DEF
+Joshua Zirkzee,FWD,Man Utd,4.0,0,3,57,1,25.6,389,0.08,0.19,0.11,0.65,126,0,2,12.9,67.4,2024-12-01T13:30:00Z,90,False,8,0,0,0,0,13,0,179358,1,0,4,36.0,13,-6029,654,6683,66,True,0,FWD
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,7.2,3,1,43,0,11.6,617,0.01,0.52,0.51,0.45,130,2,0,6.5,11.8,2024-11-30T15:00:00Z,76,False,20,0,0,0,0,13,0,201899,1,4,2,42.0,12,-22500,16180,38680,60,False,0,FWD
+Caoimhin Kelleher,GK,Liverpool,5.8,0,0,26,1,0.0,325,0.0,0.0,0.0,0.82,125,0,0,2.3,23.4,2024-12-01T16:00:00Z,90,False,13,0,0,0,0,13,3,286259,1,0,2,0.0,7,13812,31263,17451,45,True,0,GK
+Kevin Schade,MID,Brentford,6.2,1,3,85,0,13.1,106,0.35,1.6,1.25,0.88,121,1,3,23.7,128.6,2024-11-30T15:00:00Z,69,False,11,0,0,0,0,13,0,8086,1,1,4,95.0,23,-444,155,599,51,True,0,MID
+Justin Kluivert,MID,Bournemouth,8.0,0,3,76,0,31.2,71,0.08,2.49,2.41,0.45,130,2,3,21.8,112.8,2024-11-30T15:00:00Z,76,False,20,0,0,0,0,13,0,88039,1,4,2,74.0,20,216,10984,10768,53,False,0,MID
+Marcus Rashford,MID,Man Utd,6.2,0,1,45,1,13.8,385,0.02,0.46,0.44,0.65,126,0,2,12.6,67.8,2024-12-01T13:30:00Z,90,False,8,0,0,0,0,13,0,385153,1,0,4,44.0,14,17001,33897,16896,69,True,0,MID

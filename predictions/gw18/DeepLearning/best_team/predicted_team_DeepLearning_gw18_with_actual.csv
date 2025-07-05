@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Dean Henderson,GK,4.245938777923584,18,Yes,100,4.245938777923584,dean henderson,2,False,2,-2.245938777923584
+Andrew Robertson,DEF,4.127773761749268,18,Yes,100,4.127773761749268,andrew robertson,6,False,6,1.8722262382507324
+Joško Gvardiol,DEF,3.612804412841797,18,Yes,100,3.612804412841797,joško gvardiol,6,False,6,2.387195587158203
+William Saliba,DEF,4.152111530303955,18,Yes,100,4.152111530303955,william saliba,2,False,2,-2.152111530303955
+Son Heung-min,MID,4.322208404541016,18,Yes,100,4.322208404541016,son heung-min,0,False,0,-4.322208404541016
+Mohamed Salah,MID,7.371247291564941,18,Yes,100,7.371247291564941,mohamed salah,16,True,32,8.628752708435059
+Cole Palmer,MID,6.745134353637695,18,Yes,100,6.745134353637695,cole palmer,2,False,2,-4.745134353637695
+Phil Foden,MID,4.086646556854248,18,Yes,100,4.086646556854248,phil foden,6,False,6,1.913353443145752
+Ismaïla Sarr,MID,3.642308473587036,18,Yes,100,3.642308473587036,ismaïla sarr,2,False,2,-1.6423084735870361
+Alexander Isak,FWD,5.129626274108887,18,Yes,100,5.129626274108887,alexander isak,7,False,7,1.8703737258911133
+Jean-Philippe Mateta,FWD,3.3790457248687744,18,Yes,100,3.3790457248687744,jean-philippe mateta,2,False,2,-1.3790457248687744

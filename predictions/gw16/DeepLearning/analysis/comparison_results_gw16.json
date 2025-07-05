@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Alexander Isak",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 45.008803367614746,
+    "actual_total": 149.0,
+    "point_differential": 103.99119663238525,
+    "adjusted_total": 45.008803367614746,
+    "adjusted_differential": 103.99119663238525
+}

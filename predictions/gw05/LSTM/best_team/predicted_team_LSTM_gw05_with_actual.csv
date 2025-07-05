@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Alisson Ramses Becker,GK,5.2904953956604,5,Yes,75,3.9678715467453,alisson ramses becker,2,False,2,-3.2904953956604004
+Virgil van Dijk,DEF,3.7530689239501953,5,Yes,100,3.7530689239501953,virgil van dijk,2,False,2,-1.7530689239501953
+Levi Colwill,DEF,3.3946657180786133,5,Yes,100,3.3946657180786133,levi colwill,1,False,1,-2.3946657180786133
+Matthijs de Ligt,DEF,4.611465930938721,5,Yes,100,4.611465930938721,matthijs de ligt,1,False,1,-3.6114659309387207
+Andrew Robertson,DEF,4.051458358764648,5,Yes,100,4.051458358764648,andrew robertson,2,False,2,-2.0514583587646484
+Mohamed Salah,MID,21.273513793945312,5,Yes,100,21.273513793945312,mohamed salah,10,True,20,-11.273513793945312
+Cole Palmer,MID,8.685428619384766,5,Yes,100,8.685428619384766,cole palmer,25,False,25,16.314571380615234
+Luis Díaz,MID,10.089752197265623,5,Yes,100,10.089752197265623,luis díaz,2,False,2,-8.089752197265623
+Danny Welbeck,FWD,4.345358371734619,5,Yes,100,4.345358371734619,danny welbeck,2,False,2,-2.345358371734619
+Alexander Isak,FWD,4.801418304443359,5,Yes,100,4.801418304443359,alexander isak,0,False,0,-4.801418304443359
+Ollie Watkins,FWD,4.912871837615967,5,Yes,100,4.912871837615967,ollie watkins,11,False,11,6.087128162384033

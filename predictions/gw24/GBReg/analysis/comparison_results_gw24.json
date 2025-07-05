@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Luis D\u00edaz"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "4-4-2",
+    "predicted_total": 59.25368729785811,
+    "actual_total": 116.0,
+    "point_differential": 56.74631270214189,
+    "adjusted_total": 59.25368729785811,
+    "adjusted_differential": 56.74631270214189
+}

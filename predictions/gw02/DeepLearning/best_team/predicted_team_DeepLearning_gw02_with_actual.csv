@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,3.977175235748291,2,Yes,100,3.977175235748291,matz sels,2,False,2,-1.977175235748291
+William Saliba,DEF,3.3834338188171387,2,Yes,100,3.3834338188171387,william saliba,2,False,2,-1.3834338188171387
+Andrew Robertson,DEF,3.893908977508545,2,Yes,100,3.893908977508545,andrew robertson,6,False,6,2.106091022491455
+Joško Gvardiol,DEF,3.752443313598633,2,Yes,100,3.752443313598633,joško gvardiol,2,False,2,-1.7524433135986328
+Rúben Gato Alves Dias,DEF,3.406148910522461,2,Yes,100,3.406148910522461,rúben gato alves dias,0,False,0,-3.406148910522461
+Virgil van Dijk,DEF,3.4120888710021973,2,Yes,100,3.4120888710021973,virgil van dijk,5,False,5,1.5879111289978027
+Bukayo Saka,MID,5.52300500869751,2,Yes,100,5.52300500869751,bukayo saka,6,False,6,0.47699499130249023
+Diogo Teixeira da Silva,MID,4.548741817474365,2,Yes,100,4.548741817474365,diogo teixeira da silva,3,False,3,-1.5487418174743652
+Mohamed Salah,MID,5.570875644683838,2,Yes,100,5.570875644683838,mohamed salah,17,True,34,11.429124355316162
+Yoane Wissa,FWD,4.111674308776856,2,Yes,100,4.111674308776856,yoane wissa,8,False,8,3.8883256912231436
+Ollie Watkins,FWD,4.184602737426758,2,Yes,100,4.184602737426758,ollie watkins,5,False,5,0.8153972625732422

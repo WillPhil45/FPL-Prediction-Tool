@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bernd Leno,GK,3.696713924407959,13,Yes,100,3.696713924407959,bernd leno,2,False,2,-1.696713924407959
+Ashley Young,DEF,3.5355262756347656,13,Yes,100,3.5355262756347656,ashley young,15,False,15,11.464473724365234
+Pedro Porro,DEF,3.449040412902832,13,Yes,100,3.449040412902832,pedro porro,1,False,1,-2.449040412902832
+Lucas Digne,DEF,3.5256080627441406,13,Yes,100,3.5256080627441406,lucas digne,2,False,2,-1.5256080627441406
+Martin Ødegaard,MID,4.130462646484375,13,Yes,100,4.130462646484375,martin ødegaard,3,False,3,-1.130462646484375
+Bryan Mbeumo,MID,5.21082878112793,13,Yes,100,5.21082878112793,bryan mbeumo,2,False,2,-3.2108287811279297
+Bukayo Saka,MID,5.402046203613281,13,Yes,100,5.402046203613281,bukayo saka,3,False,3,-2.4020462036132812
+Mohamed Salah,MID,8.593106269836426,13,Yes,100,8.593106269836426,mohamed salah,18,True,36,9.406893730163574
+Cole Palmer,MID,5.312318801879883,13,Yes,100,5.312318801879883,cole palmer,7,False,7,1.6876811981201172
+Francisco Evanilson de Lima Barbosa,FWD,3.4661521911621094,13,Yes,100,3.4661521911621094,francisco evanilson de lima barbosa,2,False,2,-1.4661521911621094
+Yoane Wissa,FWD,3.3478891849517822,13,Yes,100,3.3478891849517822,yoane wissa,2,False,2,-1.3478891849517822

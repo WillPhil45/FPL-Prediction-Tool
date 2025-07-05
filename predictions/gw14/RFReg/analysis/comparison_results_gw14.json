@@ -1,0 +1,17 @@
+{
+    "common_players_count": 4,
+    "common_players_percentage": 36.36363636363637,
+    "common_players": [
+        "Cole Palmer",
+        "Alexander Isak",
+        "William Saliba",
+        "Bryan Mbeumo"
+    ],
+    "predicted_formation": "3-4-3",
+    "actual_formation": "3-4-3",
+    "predicted_total": 48.52685067970051,
+    "actual_total": 113.0,
+    "point_differential": 64.47314932029948,
+    "adjusted_total": 48.52685067970051,
+    "adjusted_differential": 64.47314932029948
+}

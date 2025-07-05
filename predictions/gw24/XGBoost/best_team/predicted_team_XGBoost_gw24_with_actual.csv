@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,4.007810592651367,24,Yes,100,4.007810592651367,jordan pickford,3,False,3,-1.0078105926513672
+Milos Kerkez,DEF,4.000154972076416,24,Yes,100,4.000154972076416,milos kerkez,2,False,2,-2.000154972076416
+William Saliba,DEF,5.51155424118042,24,Yes,100,5.51155424118042,william saliba,6,False,6,0.4884457588195801
+Jan Paul van Hecke,DEF,3.7504124641418457,24,Yes,100,3.7504124641418457,jan paul van hecke,6,False,6,2.2495875358581543
+Lewis Dunk,DEF,3.8385283946990967,24,Yes,100,3.8385283946990967,lewis dunk,0,False,0,-3.8385283946990967
+Mohamed Salah,MID,6.672341823577881,24,Yes,100,6.672341823577881,mohamed salah,12,False,12,5.327658176422119
+Bryan Mbeumo,MID,8.287469863891602,24,Yes,100,8.287469863891602,bryan mbeumo,3,True,6,-5.287469863891602
+Mohamed Salah,MID,7.159796714782715,24,Yes,100,7.159796714782715,mohamed salah,12,False,12,4.840203285217285
+Cole Palmer,MID,7.966238021850586,24,Yes,100,7.966238021850586,cole palmer,2,False,2,-5.966238021850586
+Chris Wood,FWD,4.919307708740234,24,Yes,75,3.689480781555176,chris wood,9,False,9,4.080692291259766
+Jean-Philippe Mateta,FWD,4.085556507110596,24,Yes,100,4.085556507110596,jean-philippe mateta,7,False,7,2.9144434928894043

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,5.083014011383057,16,Yes,100,5.083014011383057,david raya martin,3,False,3,-2.0830140113830566
+Fabian Schär,DEF,3.582771778106689,16,Yes,100,3.582771778106689,fabian schär,6,False,6,2.417228221893311
+William Saliba,DEF,4.788690567016602,16,Yes,100,4.788690567016602,william saliba,2,False,2,-2.7886905670166016
+Jurriën Timber,DEF,4.01555061340332,16,Yes,75,3.0116629600524902,jurriën timber,1,False,1,-3.0155506134033203
+Enzo Fernández,MID,6.456047534942627,16,Yes,100,6.456047534942627,enzo fernández,3,False,3,-3.456047534942627
+Mohamed Salah,MID,16.523513793945312,16,Yes,100,16.523513793945312,mohamed salah,21,True,42,4.4764862060546875
+Bukayo Saka,MID,12.387351989746094,16,Yes,100,12.387351989746094,bukayo saka,1,False,1,-11.387351989746094
+Kevin De Bruyne,MID,4.850589275360107,16,Yes,100,4.850589275360107,kevin de bruyne,0,False,0,-4.850589275360107
+Cole Palmer,MID,14.75741195678711,16,Yes,100,14.75741195678711,cole palmer,3,False,3,-11.75741195678711
+Alexander Isak,FWD,6.053036212921143,16,Yes,100,6.053036212921143,alexander isak,17,False,17,10.946963787078857
+Nicolas Jackson,FWD,4.213540077209473,16,Yes,100,4.213540077209473,nicolas jackson,2,False,2,-2.2135400772094727

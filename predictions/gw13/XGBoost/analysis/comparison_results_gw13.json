@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Ashley Young",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "3-5-2",
+    "predicted_total": 49.66969275474548,
+    "actual_total": 147.0,
+    "point_differential": 97.33030724525452,
+    "adjusted_total": 49.66969275474548,
+    "adjusted_differential": 97.33030724525452
+}

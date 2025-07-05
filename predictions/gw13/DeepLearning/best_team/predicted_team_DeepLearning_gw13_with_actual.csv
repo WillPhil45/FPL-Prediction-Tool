@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,3.7852683067321777,13,Yes,100,3.7852683067321777,jordan pickford,6,False,6,2.2147316932678223
+Aaron Wan-Bissaka,DEF,3.278625965118408,13,Yes,100,3.278625965118408,aaron wan-bissaka,1,False,1,-2.278625965118408
+Levi Colwill,DEF,3.146610736846924,13,Yes,100,3.146610736846924,levi colwill,0,False,0,-3.146610736846924
+Virgil van Dijk,DEF,3.458353042602539,13,Yes,100,3.458353042602539,virgil van dijk,1,False,1,-2.458353042602539
+Cole Palmer,MID,6.175988674163818,13,Yes,100,6.175988674163818,cole palmer,7,False,7,0.8240113258361816
+Mohamed Salah,MID,6.246722221374512,13,Yes,100,6.246722221374512,mohamed salah,18,True,36,11.753277778625488
+Bruno Borges Fernandes,MID,3.9136147499084473,13,Yes,100,3.9136147499084473,bruno borges fernandes,2,False,2,-1.9136147499084473
+Bukayo Saka,MID,4.26680850982666,13,Yes,100,4.26680850982666,bukayo saka,3,False,3,-1.2668085098266602
+Bryan Mbeumo,MID,5.263257026672363,13,Yes,100,5.263257026672363,bryan mbeumo,2,False,2,-3.2632570266723633
+Jamie Vardy,FWD,3.5269904136657715,13,Yes,100,3.5269904136657715,jamie vardy,4,False,4,0.4730095863342285
+Ollie Watkins,FWD,3.537978172302246,13,Yes,100,3.537978172302246,ollie watkins,12,False,12,8.462021827697754

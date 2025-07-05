@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Mads Hermansen,GK,3.412384033203125,9,Yes,100,3.412384033203125,mads hermansen,2,False,2,-1.412384033203125
+Daniel Muñoz,DEF,3.24751615524292,9,Yes,100,3.24751615524292,daniel muñoz,3,False,3,-0.24751615524291992
+Marc Guéhi,DEF,3.0744271278381348,9,Yes,100,3.0744271278381348,marc guéhi,7,False,7,3.9255728721618652
+Joško Gvardiol,DEF,3.725163459777832,9,Yes,100,3.725163459777832,joško gvardiol,7,False,7,3.274836540222168
+Tyrick Mitchell,DEF,3.161940574645996,9,Yes,100,3.161940574645996,tyrick mitchell,1,False,1,-2.161940574645996
+Bryan Mbeumo,MID,5.199833393096924,9,Yes,100,5.199833393096924,bryan mbeumo,3,False,3,-2.199833393096924
+Mohamed Salah,MID,4.95763635635376,9,Yes,100,4.95763635635376,mohamed salah,9,False,9,4.04236364364624
+Cole Palmer,MID,6.328268527984619,9,Yes,100,6.328268527984619,cole palmer,3,True,6,-3.328268527984619
+Ollie Watkins,FWD,3.3608145713806152,9,Yes,100,3.3608145713806152,ollie watkins,2,False,2,-1.3608145713806152
+Jean-Philippe Mateta,FWD,4.341102123260498,9,Yes,100,4.341102123260498,jean-philippe mateta,2,False,2,-2.341102123260498
+Dominic Solanke-Mitchell,FWD,3.336897611618042,9,Yes,100,3.336897611618042,dominic solanke-mitchell,16,False,16,12.663102388381958

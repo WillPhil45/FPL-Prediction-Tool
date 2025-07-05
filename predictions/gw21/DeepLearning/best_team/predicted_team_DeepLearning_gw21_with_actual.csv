@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bart Verbruggen,GK,3.586499691009521,21,Yes,100,3.586499691009521,bart verbruggen,2,False,2,-1.586499691009521
+William Saliba,DEF,3.6033220291137695,21,Yes,100,3.6033220291137695,william saliba,0,False,0,-3.6033220291137695
+Daniel Muñoz,DEF,3.470580577850342,21,Yes,100,3.470580577850342,daniel muñoz,6,False,6,2.529419422149658
+Joško Gvardiol,DEF,3.794550895690918,21,Yes,100,3.794550895690918,joško gvardiol,6,False,6,2.205449104309082
+Bryan Mbeumo,MID,3.7487525939941406,21,Yes,100,3.7487525939941406,bryan mbeumo,2,False,2,-1.7487525939941406
+Mohamed Salah,MID,8.026251792907715,21,Yes,100,8.026251792907715,mohamed salah,3,True,6,-5.026251792907715
+Kevin De Bruyne,MID,4.031013488769531,21,Yes,100,4.031013488769531,kevin de bruyne,12,False,12,7.968986511230469
+Cole Palmer,MID,6.404336929321289,21,Yes,100,6.404336929321289,cole palmer,2,False,2,-4.404336929321289
+Dominic Solanke-Mitchell,FWD,4.190393924713135,21,Yes,100,4.190393924713135,dominic solanke-mitchell,0,False,0,-4.190393924713135
+Raúl Jiménez,FWD,4.006373405456543,21,Yes,100,4.006373405456543,raúl jiménez,2,False,2,-2.006373405456543
+Alexander Isak,FWD,3.980914354324341,21,Yes,100,3.980914354324341,alexander isak,2,False,2,-1.9809143543243408

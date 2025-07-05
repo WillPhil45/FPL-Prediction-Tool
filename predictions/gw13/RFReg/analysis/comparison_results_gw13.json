@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "William Saliba",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "3-5-2",
+    "predicted_total": 47.421261840457056,
+    "actual_total": 147.0,
+    "point_differential": 99.57873815954295,
+    "adjusted_total": 47.421261840457056,
+    "adjusted_differential": 99.57873815954295
+}

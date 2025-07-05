@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,3.627751211390434,27,Yes,100,3.627751211390434,matz sels,8,False,8,4.372248788609566
+Daniel Muñoz,DEF,3.9865430669041744,27,Yes,100,3.9865430669041744,daniel muñoz,6,False,6,2.0134569330958256
+Pedro Porro,DEF,3.556732312334194,27,Yes,100,3.556732312334194,pedro porro,1,False,1,-2.556732312334194
+Virgil van Dijk,DEF,3.7227430672196986,27,Yes,100,3.7227430672196986,virgil van dijk,2,False,2,-1.7227430672196986
+Bruno Borges Fernandes,MID,4.470475550070328,27,Yes,100,4.470475550070328,bruno borges fernandes,9,False,9,4.529524449929672
+Bryan Mbeumo,MID,5.289905344102261,27,Yes,100,5.289905344102261,bryan mbeumo,2,False,2,-3.2899053441022614
+Morgan Gibbs-White,MID,4.443507571520989,27,Yes,100,4.443507571520989,morgan gibbs-white,5,False,5,0.5564924284790109
+Mohamed Salah,MID,7.512464227814009,27,Yes,100,7.512464227814009,mohamed salah,15,True,30,7.487535772185991
+Cole Palmer,MID,5.829797217152798,27,Yes,100,5.829797217152798,cole palmer,1,False,1,-4.829797217152798
+Yoane Wissa,FWD,4.340832506103824,27,Yes,100,4.340832506103824,yoane wissa,2,False,2,-2.3408325061038244
+Jean-Philippe Mateta,FWD,4.990781013244927,27,Yes,100,4.990781013244927,jean-philippe mateta,0,False,0,-4.990781013244927

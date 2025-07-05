@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.602828343927639,21,Yes,100,3.602828343927639,david raya martin,1,False,1,-2.602828343927639
+Dan Burn,DEF,3.5438449453545613,21,Yes,100,3.5438449453545613,dan burn,0,False,0,-3.5438449453545613
+William Saliba,DEF,3.679809044547282,21,Yes,100,3.679809044547282,william saliba,0,False,0,-3.679809044547282
+Antonee Robinson,DEF,3.7455917504231344,21,Yes,100,3.7455917504231344,antonee robinson,8,False,8,4.254408249576866
+Mohamed Salah,MID,7.22628918516544,21,Yes,100,7.22628918516544,mohamed salah,3,True,6,-4.22628918516544
+Bryan Mbeumo,MID,5.680057375929303,21,Yes,100,5.680057375929303,bryan mbeumo,2,False,2,-3.6800573759293034
+Cole Palmer,MID,5.780814543875561,21,Yes,100,5.780814543875561,cole palmer,2,False,2,-3.780814543875561
+Bruno Borges Fernandes,MID,4.729967945436832,21,Yes,100,4.729967945436832,bruno borges fernandes,8,False,8,3.270032054563168
+Jacob Murphy,MID,4.403514388048448,21,Yes,100,4.403514388048448,jacob murphy,2,False,2,-2.403514388048448
+Raúl Jiménez,FWD,4.630825167784042,21,Yes,100,4.630825167784042,raúl jiménez,2,False,2,-2.6308251677840424
+Alexander Isak,FWD,5.846149454632915,21,Yes,100,5.846149454632915,alexander isak,2,False,2,-3.846149454632915

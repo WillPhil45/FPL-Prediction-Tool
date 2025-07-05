@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,3.9119169080618192,4,Yes,100,3.9119169080618192,ederson santana de moraes,0,False,0,-3.9119169080618192
+Cristian Romero,DEF,3.494644555414028,4,Yes,100,3.494644555414028,cristian romero,2,False,2,-1.4946445554140282
+Andrew Robertson,DEF,3.686164080772148,4,Yes,100,3.686164080772148,andrew robertson,6,False,6,2.313835919227852
+Pedro Porro,DEF,3.544087946557908,4,Yes,100,3.544087946557908,pedro porro,2,False,2,-1.5440879465579078
+Virgil van Dijk,DEF,3.9369636900628535,4,Yes,100,3.9369636900628535,virgil van dijk,6,False,6,2.0630363099371465
+Bukayo Saka,MID,5.021284159168472,4,Yes,100,5.021284159168472,bukayo saka,4,False,4,-1.0212841591684718
+Cole Palmer,MID,5.192042466151307,4,Yes,100,5.192042466151307,cole palmer,8,False,8,2.8079575338486933
+Mohamed Salah,MID,7.199175472825352,4,Yes,100,7.199175472825352,mohamed salah,6,True,12,-1.1991754728253516
+Kevin De Bruyne,MID,4.613780014067507,4,Yes,100,4.613780014067507,kevin de bruyne,0,False,0,-4.613780014067507
+Nicolas Jackson,FWD,3.8257699321304384,4,Yes,100,3.8257699321304384,nicolas jackson,16,False,16,12.174230067869562
+Ollie Watkins,FWD,4.412451658723901,4,Yes,100,4.412451658723901,ollie watkins,6,False,6,1.587548341276099

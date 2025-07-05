@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.971212387084961,15,Yes,100,4.971212387084961,david raya martin,6,False,6,1.028787612915039
+Fabian Schär,DEF,3.3444223403930664,15,Yes,100,3.3444223403930664,fabian schär,6,False,6,2.6555776596069336
+Marc Cucurella Saseta,DEF,2.885760307312012,15,Yes,100,2.885760307312012,marc cucurella saseta,5,False,5,2.114239692687988
+Milos Kerkez,DEF,3.252375602722168,15,Yes,100,3.252375602722168,milos kerkez,2,False,2,-1.252375602722168
+William Saliba,DEF,4.831146717071533,15,Yes,100,4.831146717071533,william saliba,6,False,6,1.1688532829284668
+Bukayo Saka,MID,12.828514099121094,15,Yes,100,12.828514099121094,bukayo saka,3,False,3,-9.828514099121094
+Christian Nørgaard,MID,6.776278972625732,15,Yes,100,6.776278972625732,christian nørgaard,2,False,2,-4.776278972625732
+Cole Palmer,MID,13.18895149230957,15,Yes,100,13.18895149230957,cole palmer,3,True,6,-10.18895149230957
+Ollie Watkins,FWD,4.667479991912842,15,Yes,100,4.667479991912842,ollie watkins,1,False,1,-3.667479991912842
+Alexander Isak,FWD,4.53175687789917,15,Yes,100,4.53175687789917,alexander isak,11,False,11,6.46824312210083
+Nicolas Jackson,FWD,4.291764736175537,15,Yes,100,4.291764736175537,nicolas jackson,9,False,9,4.708235263824463

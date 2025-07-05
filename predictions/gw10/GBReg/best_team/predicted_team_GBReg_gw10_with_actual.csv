@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,3.833483399441606,10,Yes,100,3.833483399441606,andré onana,9,False,9,5.166516600558394
+Ashley Young,DEF,3.2073928458396903,10,Yes,100,3.2073928458396903,ashley young,5,False,5,1.7926071541603097
+Dara O'Shea,DEF,3.6190989167554255,10,Yes,100,3.6190989167554255,dara o'shea,2,False,2,-1.6190989167554255
+Diogo Dalot Teixeira,DEF,3.5105319596846054,10,Yes,100,3.5105319596846054,diogo dalot teixeira,1,False,1,-2.5105319596846054
+Joško Gvardiol,DEF,3.292263509720331,10,Yes,100,3.292263509720331,joško gvardiol,1,False,1,-2.292263509720331
+Michael Keane,DEF,3.3841655556292745,10,Yes,100,3.3841655556292745,michael keane,0,False,0,-3.3841655556292745
+Cole Palmer,MID,6.73146296492614,10,Yes,100,6.73146296492614,cole palmer,2,True,4,-4.73146296492614
+Mohamed Salah,MID,6.66754068570806,10,Yes,100,6.66754068570806,mohamed salah,14,False,14,7.33245931429194
+Jørgen Strand Larsen,FWD,3.7560145371835154,10,Yes,100,3.7560145371835154,jørgen strand larsen,2,False,2,-1.7560145371835154
+Danny Welbeck,FWD,3.80448051703091,10,Yes,100,3.80448051703091,danny welbeck,2,False,2,-1.80448051703091
+Dominic Solanke-Mitchell,FWD,3.7484510927484735,10,Yes,100,3.7484510927484735,dominic solanke-mitchell,2,False,2,-1.7484510927484735

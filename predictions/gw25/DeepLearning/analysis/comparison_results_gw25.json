@@ -1,0 +1,16 @@
+{
+    "common_players_count": 3,
+    "common_players_percentage": 27.27272727272727,
+    "common_players": [
+        "Bryan Mbeumo",
+        "Alexander Isak",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "3-5-2",
+    "predicted_total": 49.15693545341492,
+    "actual_total": 138.0,
+    "point_differential": 88.84306454658508,
+    "adjusted_total": 49.15693545341492,
+    "adjusted_differential": 88.84306454658508
+}

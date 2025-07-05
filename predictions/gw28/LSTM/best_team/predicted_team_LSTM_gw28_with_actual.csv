@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,6.199522972106934,28,Yes,100,6.199522972106934,matz sels,1,False,1,-5.199522972106934
+Milos Kerkez,DEF,3.0692005157470703,28,Yes,100,3.0692005157470703,milos kerkez,4,False,4,0.9307994842529297
+Aaron Wan-Bissaka,DEF,2.435173988342285,28,Yes,100,2.435173988342285,aaron wan-bissaka,2,False,2,-0.43517398834228516
+James Tarkowski,DEF,3.469271659851074,28,Yes,100,3.469271659851074,james tarkowski,2,False,2,-1.4692716598510742
+Marc Cucurella Saseta,DEF,3.0077691078186035,28,Yes,100,3.0077691078186035,marc cucurella saseta,2,False,2,-1.0077691078186035
+Justin Kluivert,MID,8.022363662719727,28,Yes,75,6.016772747039795,justin kluivert,2,True,4,-6.022363662719727
+Bruno Borges Fernandes,MID,7.005938053131104,28,Yes,100,7.005938053131104,bruno borges fernandes,17,False,17,9.994061946868896
+Morgan Gibbs-White,MID,6.483835220336914,28,Yes,100,6.483835220336914,morgan gibbs-white,5,False,5,-1.483835220336914
+Norberto Bercique Gomes Betuncal,FWD,4.818209648132324,28,Yes,100,4.818209648132324,norberto bercique gomes betuncal,2,False,2,-2.818209648132324
+Chris Wood,FWD,5.93357515335083,28,Yes,75,4.450181365013123,chris wood,2,False,2,-3.93357515335083
+Yoane Wissa,FWD,4.321290493011475,28,Yes,100,4.321290493011475,yoane wissa,8,False,8,3.6787095069885254

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.5333762226128096,16,Yes,100,3.5333762226128096,david raya martin,3,False,3,-0.5333762226128096
+Antonee Robinson,DEF,3.4787851049171272,16,Yes,100,3.4787851049171272,antonee robinson,6,False,6,2.5212148950828728
+Joško Gvardiol,DEF,3.424560168779376,16,Yes,100,3.424560168779376,joško gvardiol,0,False,0,-3.424560168779376
+Marc Cucurella Saseta,DEF,3.450895173809775,16,Yes,100,3.450895173809775,marc cucurella saseta,0,False,0,-3.450895173809775
+William Saliba,DEF,3.722477397434271,16,Yes,100,3.722477397434271,william saliba,2,False,2,-1.7224773974342709
+Rayan Aït-Nouri,DEF,3.32311462168485,16,Yes,100,3.32311462168485,rayan aït-nouri,0,False,0,-3.32311462168485
+Bukayo Saka,MID,6.046536860059471,16,Yes,100,6.046536860059471,bukayo saka,1,False,1,-5.046536860059471
+Cole Palmer,MID,6.128003679424467,16,Yes,100,6.128003679424467,cole palmer,3,False,3,-3.1280036794244674
+Mohamed Salah,MID,7.195382493565805,16,Yes,100,7.195382493565805,mohamed salah,21,True,42,13.804617506434194
+Alexander Isak,FWD,4.295396182282238,16,Yes,100,4.295396182282238,alexander isak,17,False,17,12.70460381771776
+Jamie Vardy,FWD,3.468367141622244,16,Yes,100,3.468367141622244,jamie vardy,2,False,2,-1.468367141622244

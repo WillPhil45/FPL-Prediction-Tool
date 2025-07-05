@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,3.8818185329437256,3,Yes,100,3.8818185329437256,ederson santana de moraes,7,False,7,3.1181814670562744
+William Saliba,DEF,3.690400123596192,3,Yes,100,3.690400123596192,william saliba,5,False,5,1.3095998764038081
+Joško Gvardiol,DEF,3.885265827178955,3,Yes,100,3.885265827178955,joško gvardiol,1,False,1,-2.885265827178955
+Lucas Digne,DEF,3.979339599609375,3,Yes,100,3.979339599609375,lucas digne,4,False,4,0.020660400390625
+Leif Davis,DEF,3.91828989982605,3,Yes,100,3.91828989982605,leif davis,6,False,6,2.08171010017395
+Bukayo Saka,MID,5.818027973175049,3,Yes,100,5.818027973175049,bukayo saka,7,False,7,1.1819720268249512
+Son Heung-min,MID,6.180717468261719,3,Yes,100,6.180717468261719,son heung-min,2,False,2,-4.180717468261719
+Cole Palmer,MID,5.793074131011963,3,Yes,100,5.793074131011963,cole palmer,3,False,3,-2.793074131011963
+Mohamed Salah,MID,6.663760662078857,3,Yes,100,6.663760662078857,mohamed salah,2,True,4,-4.663760662078857
+Alexander Isak,FWD,5.502621173858643,3,Yes,100,5.502621173858643,alexander isak,1,False,1,-4.502621173858643
+Francisco Evanilson de Lima Barbosa,FWD,4.26093339920044,3,Yes,100,4.26093339920044,francisco evanilson de lima barbosa,0,False,0,-4.26093339920044

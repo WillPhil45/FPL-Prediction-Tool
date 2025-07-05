@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Alexander Isak",
+        "Phil Foden"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "4-3-3",
+    "predicted_total": 53.18116735319932,
+    "actual_total": 134.0,
+    "point_differential": 80.81883264680067,
+    "adjusted_total": 53.18116735319932,
+    "adjusted_differential": 80.81883264680067
+}

@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Jean-Philippe Mateta",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "4-3-3",
+    "predicted_total": 53.51640198164414,
+    "actual_total": 137.0,
+    "point_differential": 83.48359801835586,
+    "adjusted_total": 53.51640198164414,
+    "adjusted_differential": 83.48359801835586
+}

@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Nicolas Jackson"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "3-4-3",
+    "predicted_total": 48.83828088393574,
+    "actual_total": 121.0,
+    "point_differential": 72.16171911606426,
+    "adjusted_total": 48.83828088393574,
+    "adjusted_differential": 72.16171911606426
+}

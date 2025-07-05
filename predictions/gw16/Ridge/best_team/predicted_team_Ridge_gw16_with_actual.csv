@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.814827189457562,16,Yes,100,3.814827189457562,david raya martin,3,False,3,-0.8148271894575618
+Milos Kerkez,DEF,3.024258616759212,16,Yes,100,3.024258616759212,milos kerkez,6,False,6,2.975741383240788
+Antonee Robinson,DEF,3.243301396048104,16,Yes,100,3.243301396048104,antonee robinson,6,False,6,2.756698603951896
+William Saliba,DEF,3.991415055095631,16,Yes,100,3.991415055095631,william saliba,2,False,2,-1.991415055095631
+Virgil van Dijk,DEF,3.4499096599011776,16,Yes,100,3.4499096599011776,virgil van dijk,1,False,1,-2.4499096599011776
+Mohamed Salah,MID,7.679898982439621,16,Yes,100,7.679898982439621,mohamed salah,21,True,42,13.32010101756038
+Cole Palmer,MID,6.640904445972781,16,Yes,100,6.640904445972781,cole palmer,3,False,3,-3.6409044459727813
+Bruno Borges Fernandes,MID,4.618202949870944,16,Yes,100,4.618202949870944,bruno borges fernandes,2,False,2,-2.618202949870944
+Bukayo Saka,MID,6.322023546277485,16,Yes,100,6.322023546277485,bukayo saka,1,False,1,-5.322023546277485
+Alexander Isak,FWD,5.07924563201982,16,Yes,100,5.07924563201982,alexander isak,17,False,17,11.92075436798018
+Jørgen Strand Larsen,FWD,3.9821803163185487,16,Yes,100,3.9821803163185487,jørgen strand larsen,2,False,2,-1.9821803163185487

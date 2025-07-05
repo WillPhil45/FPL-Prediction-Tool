@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.4841082096099854,4,Yes,100,3.4841082096099854,david raya martin,4,False,4,0.5158917903900146
+Levi Colwill,DEF,3.1262121200561523,4,Yes,100,3.1262121200561523,levi colwill,7,False,7,3.8737878799438477
+Lucas Digne,DEF,3.4211015701293945,4,Yes,100,3.4211015701293945,lucas digne,1,False,1,-2.4211015701293945
+Cristian Romero,DEF,3.726974010467529,4,Yes,100,3.726974010467529,cristian romero,2,False,2,-1.7269740104675289
+Pedro Porro,DEF,3.757611751556397,4,Yes,100,3.757611751556397,pedro porro,2,False,2,-1.757611751556397
+Son Heung-min,MID,4.072675704956055,4,Yes,100,4.072675704956055,son heung-min,10,False,10,5.927324295043945
+Mitoma Kaoru,MID,4.274226665496826,4,Yes,100,4.274226665496826,mitoma kaoru,5,False,5,0.7257733345031738
+Cole Palmer,MID,4.657168388366699,4,Yes,100,4.657168388366699,cole palmer,8,False,8,3.342831611633301
+Mohamed Salah,MID,5.235836505889893,4,Yes,100,5.235836505889893,mohamed salah,6,True,12,0.7641634941101074
+Ollie Watkins,FWD,4.411348342895508,4,Yes,100,4.411348342895508,ollie watkins,6,False,6,1.5886516571044922
+Dominic Solanke-Mitchell,FWD,3.9474148750305176,4,Yes,100,3.9474148750305176,dominic solanke-mitchell,6,False,6,2.0525851249694824

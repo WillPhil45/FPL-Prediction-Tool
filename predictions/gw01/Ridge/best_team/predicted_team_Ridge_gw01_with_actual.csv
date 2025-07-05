@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,2.8506667222255904,1,Yes,100,2.8506667222255904,ederson santana de moraes,2,False,2,-0.8506667222255904
+Pedro Porro,DEF,3.110264929945976,1,Yes,100,3.110264929945976,pedro porro,6,False,6,2.889735070054024
+Joško Gvardiol,DEF,2.9393261213375053,1,Yes,100,2.9393261213375053,joško gvardiol,2,False,2,-0.9393261213375053
+Virgil van Dijk,DEF,2.7599375018826766,1,Yes,100,2.7599375018826766,virgil van dijk,7,False,7,4.240062498117323
+Mohamed Salah,MID,4.947660887857217,1,Yes,100,4.947660887857217,mohamed salah,10,True,20,5.052339112142783
+Son Heung-min,MID,3.5210410460844592,1,Yes,100,3.5210410460844592,son heung-min,16,False,16,12.47895895391554
+Bukayo Saka,MID,4.597192035610491,1,Yes,100,4.597192035610491,bukayo saka,6,False,6,1.4028079643895088
+Cole Palmer,MID,3.922318877878348,1,Yes,100,3.922318877878348,cole palmer,17,False,17,13.077681122121652
+Yoane Wissa,FWD,3.014795818390636,1,Yes,100,3.014795818390636,yoane wissa,2,False,2,-1.014795818390636
+Dominic Solanke-Mitchell,FWD,3.8885050959133904,1,Yes,100,3.8885050959133904,dominic solanke-mitchell,0,False,0,-3.8885050959133904
+Alexander Isak,FWD,3.520377146416977,1,Yes,100,3.520377146416977,alexander isak,2,False,2,-1.520377146416977

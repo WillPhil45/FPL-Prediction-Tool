@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.826169490814209,14,Yes,100,4.826169490814209,david raya martin,2,False,2,-2.826169490814209
+Oleksandr Zinchenko,DEF,3.6353063583374015,14,Yes,100,3.6353063583374015,oleksandr zinchenko,0,False,0,-3.6353063583374015
+Milos Kerkez,DEF,3.811212539672852,14,Yes,100,3.811212539672852,milos kerkez,2,False,2,-1.811212539672852
+William Saliba,DEF,4.069893836975098,14,Yes,100,4.069893836975098,william saliba,9,False,9,4.930106163024902
+Cole Palmer,MID,12.34685516357422,14,Yes,100,12.34685516357422,cole palmer,18,True,36,5.6531448364257795
+Bruno Borges Fernandes,MID,7.279877185821533,14,Yes,100,7.279877185821533,bruno borges fernandes,9,False,9,1.7201228141784668
+Jarrod Bowen,MID,6.898101806640625,14,Yes,100,6.898101806640625,jarrod bowen,12,False,12,5.101898193359375
+Bukayo Saka,MID,12.169170379638672,14,Yes,100,12.169170379638672,bukayo saka,2,False,2,-10.169170379638672
+Alexander Isak,FWD,4.696983814239502,14,Yes,100,4.696983814239502,alexander isak,8,False,8,3.303016185760498
+Ollie Watkins,FWD,5.05685567855835,14,Yes,100,5.05685567855835,ollie watkins,1,False,1,-4.05685567855835
+Francisco Evanilson de Lima Barbosa,FWD,4.835588455200195,14,Yes,100,4.835588455200195,francisco evanilson de lima barbosa,2,False,2,-2.8355884552001953

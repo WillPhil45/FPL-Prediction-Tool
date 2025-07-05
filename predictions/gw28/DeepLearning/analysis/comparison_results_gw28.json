@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Bruno Borges Fernandes"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "4-4-2",
+    "predicted_total": 42.50178050994873,
+    "actual_total": 125.0,
+    "point_differential": 82.49821949005127,
+    "adjusted_total": 42.50178050994873,
+    "adjusted_differential": 82.49821949005127
+}

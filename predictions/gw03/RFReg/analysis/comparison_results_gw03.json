@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Ollie Watkins"
+    ],
+    "predicted_formation": "5-3-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 49.72839541431299,
+    "actual_total": 133.0,
+    "point_differential": 83.27160458568702,
+    "adjusted_total": 49.72839541431299,
+    "adjusted_differential": 83.27160458568702
+}

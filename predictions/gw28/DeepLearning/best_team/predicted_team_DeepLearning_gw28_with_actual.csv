@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,3.8389134407043457,28,Yes,100,3.8389134407043457,matz sels,1,False,1,-2.8389134407043457
+Milos Kerkez,DEF,3.556516647338867,28,Yes,100,3.556516647338867,milos kerkez,4,False,4,0.4434833526611328
+Joško Gvardiol,DEF,3.2041659355163574,28,Yes,100,3.2041659355163574,joško gvardiol,1,False,1,-2.2041659355163574
+James Tarkowski,DEF,3.467707633972168,28,Yes,100,3.467707633972168,james tarkowski,2,False,2,-1.467707633972168
+Son Heung-min,MID,3.735452651977539,28,Yes,100,3.735452651977539,son heung-min,1,False,1,-2.735452651977539
+Cole Palmer,MID,5.290435314178467,28,Yes,100,5.290435314178467,cole palmer,0,True,0,-5.290435314178467
+Bryan Mbeumo,MID,4.69606876373291,28,Yes,100,4.69606876373291,bryan mbeumo,6,False,6,1.3039312362670898
+Bruno Borges Fernandes,MID,3.782179355621338,28,Yes,100,3.782179355621338,bruno borges fernandes,17,False,17,13.217820644378662
+Phil Foden,MID,4.484798908233643,28,Yes,100,4.484798908233643,phil foden,1,False,1,-3.4847989082336426
+Norberto Bercique Gomes Betuncal,FWD,3.1805672645568848,28,Yes,100,3.1805672645568848,norberto bercique gomes betuncal,2,False,2,-1.1805672645568848
+Jamie Vardy,FWD,3.264974594116211,28,Yes,100,3.264974594116211,jamie vardy,2,False,2,-1.264974594116211

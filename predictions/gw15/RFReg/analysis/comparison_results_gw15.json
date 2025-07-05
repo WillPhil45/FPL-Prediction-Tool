@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Jo\u0161ko Gvardiol",
+        "Alexander Isak"
+    ],
+    "predicted_formation": "5-2-3",
+    "actual_formation": "3-5-2",
+    "predicted_total": 44.75266447490776,
+    "actual_total": 124.0,
+    "point_differential": 79.24733552509224,
+    "adjusted_total": 44.75266447490776,
+    "adjusted_differential": 79.24733552509224
+}

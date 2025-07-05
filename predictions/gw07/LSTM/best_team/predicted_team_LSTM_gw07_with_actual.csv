@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,4.223883628845215,7,Yes,100,4.223883628845215,jordan pickford,6,False,6,1.7761163711547852
+Ibrahima Konaté,DEF,3.8315486907958975,7,Yes,100,3.8315486907958975,ibrahima konaté,1,False,1,-2.8315486907958975
+Matty Cash,DEF,3.82802152633667,7,Yes,100,3.82802152633667,matty cash,2,False,2,-1.82802152633667
+Joško Gvardiol,DEF,4.005823612213135,7,Yes,100,4.005823612213135,joško gvardiol,10,False,10,5.994176387786865
+Cole Palmer,MID,19.959516525268555,7,Yes,100,19.959516525268555,cole palmer,2,True,4,-17.959516525268555
+Bukayo Saka,MID,9.343730926513672,7,Yes,100,9.343730926513672,bukayo saka,0,False,0,-9.343730926513672
+Mohamed Salah,MID,8.518878936767578,7,Yes,100,8.518878936767578,mohamed salah,12,False,12,3.481121063232422
+Morgan Gibbs-White,MID,7.477210998535156,7,Yes,100,7.477210998535156,morgan gibbs-white,0,False,0,-7.477210998535156
+Raúl Jiménez,FWD,5.334257125854492,7,Yes,100,5.334257125854492,raúl jiménez,7,False,7,1.6657428741455078
+Ollie Watkins,FWD,5.917252063751221,7,Yes,100,5.917252063751221,ollie watkins,8,False,8,2.0827479362487793
+Dominic Solanke-Mitchell,FWD,3.946955680847168,7,Yes,100,3.946955680847168,dominic solanke-mitchell,2,False,2,-1.946955680847168

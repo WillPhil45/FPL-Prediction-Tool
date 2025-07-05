@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Nick Pope,GK,3.411382854556395,6,Yes,100,3.411382854556395,nick pope,6,False,6,2.588617145443605
+William Saliba,DEF,3.7425468913910898,6,Yes,100,3.7425468913910898,william saliba,2,False,2,-1.7425468913910898
+Pedro Porro,DEF,3.4907889735792788,6,Yes,100,3.4907889735792788,pedro porro,1,False,1,-2.4907889735792788
+Rayan Aït-Nouri,DEF,3.87817056388108,6,Yes,100,3.87817056388108,rayan aït-nouri,9,False,9,5.1218294361189205
+Virgil van Dijk,DEF,3.792067116080466,6,Yes,100,3.792067116080466,virgil van dijk,8,False,8,4.2079328839195345
+Cole Palmer,MID,5.552539586279733,6,Yes,100,5.552539586279733,cole palmer,6,False,6,0.44746041372026735
+Mohamed Salah,MID,6.566072097870716,6,Yes,100,6.566072097870716,mohamed salah,3,True,6,-3.566072097870716
+Bukayo Saka,MID,5.984802428689488,6,Yes,100,5.984802428689488,bukayo saka,16,False,16,10.015197571310512
+Danny Welbeck,FWD,4.069013704453641,6,Yes,100,4.069013704453641,danny welbeck,8,False,8,3.930986295546359
+Nicolas Jackson,FWD,4.050200555321992,6,Yes,100,4.050200555321992,nicolas jackson,2,False,2,-2.050200555321992
+Ollie Watkins,FWD,3.99455054209011,6,Yes,100,3.99455054209011,ollie watkins,2,False,2,-1.99455054209011

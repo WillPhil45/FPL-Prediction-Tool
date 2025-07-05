@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Guglielmo Vicario,GK,4.139676570892334,8,Yes,100,4.139676570892334,guglielmo vicario,3,False,3,-1.139676570892334
+Joško Gvardiol,DEF,4.022403717041016,8,Yes,100,4.022403717041016,joško gvardiol,9,False,9,4.977596282958984
+Matthijs de Ligt,DEF,3.640810966491699,8,Yes,100,3.640810966491699,matthijs de ligt,0,False,0,-3.640810966491699
+Diogo Dalot Teixeira,DEF,3.645323038101196,8,Yes,100,3.645323038101196,diogo dalot teixeira,1,False,1,-2.645323038101196
+Cole Palmer,MID,6.179836750030518,8,Yes,100,6.179836750030518,cole palmer,10,True,20,3.8201632499694824
+Son Heung-min,MID,5.733471870422363,8,Yes,100,5.733471870422363,son heung-min,0,False,0,-5.733471870422363
+Alejandro Garnacho,MID,4.589993476867676,8,Yes,100,4.589993476867676,alejandro garnacho,2,False,2,-2.589993476867676
+Phil Foden,MID,5.206666946411133,8,Yes,100,5.206666946411133,phil foden,3,False,3,-2.206666946411133
+Mohamed Salah,MID,5.010496616363525,8,Yes,100,5.010496616363525,mohamed salah,10,False,10,4.989503383636475
+Nicolas Jackson,FWD,4.125790596008301,8,Yes,100,4.125790596008301,nicolas jackson,9,False,9,4.874209403991699
+Raúl Jiménez,FWD,3.382819414138794,8,Yes,100,3.382819414138794,raúl jiménez,2,False,2,-1.382819414138794

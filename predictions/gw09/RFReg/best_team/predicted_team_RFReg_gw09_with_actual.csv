@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Nick Pope,GK,3.446938057426371,9,Yes,100,3.446938057426371,nick pope,5,False,5,1.553061942573629
+Michael Keane,DEF,3.929124984121391,9,Yes,100,3.929124984121391,michael keane,1,False,1,-2.929124984121391
+Ibrahima Konaté,DEF,3.379495280406117,9,Yes,100,3.379495280406117,ibrahima konaté,1,False,1,-2.379495280406117
+Cristian Romero,DEF,3.2947968621357537,9,Yes,100,3.2947968621357537,cristian romero,1,False,1,-2.2947968621357537
+Joško Gvardiol,DEF,3.669202489025059,9,Yes,100,3.669202489025059,joško gvardiol,7,False,7,3.330797510974941
+Virgil van Dijk,DEF,3.639318850976745,9,Yes,100,3.639318850976745,virgil van dijk,5,False,5,1.360681149023255
+Bryan Mbeumo,MID,5.41333546724793,9,Yes,100,5.41333546724793,bryan mbeumo,3,False,3,-2.41333546724793
+Mohamed Salah,MID,5.909458936469915,9,Yes,100,5.909458936469915,mohamed salah,9,False,9,3.090541063530085
+Cole Palmer,MID,6.5556380149086015,9,Yes,100,6.5556380149086015,cole palmer,3,True,6,-3.5556380149086015
+Danny Welbeck,FWD,3.7826445058637344,9,Yes,100,3.7826445058637344,danny welbeck,5,False,5,1.2173554941362656
+Yoane Wissa,FWD,3.5840808222019973,9,Yes,100,3.5840808222019973,yoane wissa,2,False,2,-1.5840808222019973

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,5.126384735107422,26,Yes,100,5.126384735107422,andré onana,1,False,1,-4.126384735107422
+Andrew Robertson,DEF,3.64683198928833,26,Yes,100,3.64683198928833,andrew robertson,0,False,0,-3.64683198928833
+Daniel Muñoz,DEF,3.6717028617858887,26,Yes,100,3.6717028617858887,daniel muñoz,4,False,4,0.32829713821411133
+Joachim Andersen,DEF,3.992852210998535,26,Yes,100,3.992852210998535,joachim andersen,2,False,2,-1.9928522109985352
+Cole Palmer,MID,10.202205657958984,26,Yes,100,10.202205657958984,cole palmer,3,False,3,-7.202205657958984
+Bryan Mbeumo,MID,8.28605842590332,26,Yes,100,8.28605842590332,bryan mbeumo,5,False,5,-3.2860584259033203
+Myles Lewis-Skelly,MID,11.511842727661133,26,Yes,100,11.511842727661133,myles lewis-skelly,0,False,0,-11.511842727661133
+Mohamed Salah,MID,14.832393646240234,26,Yes,100,14.832393646240234,mohamed salah,6,True,12,-8.832393646240234
+Alexander Isak,FWD,5.748754501342773,26,Yes,100,5.748754501342773,alexander isak,0,False,0,-5.748754501342773
+Jean-Philippe Mateta,FWD,6.064953327178955,26,Yes,100,6.064953327178955,jean-philippe mateta,8,False,8,1.935046672821045
+Chris Wood,FWD,6.38993501663208,26,Yes,75,4.79245126247406,chris wood,2,False,2,-4.38993501663208

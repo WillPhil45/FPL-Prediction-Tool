@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bernd Leno,GK,3.976005552493543,19,Yes,100,3.976005552493543,bernd leno,1,False,1,-2.976005552493543
+Milos Kerkez,DEF,3.9702132665609415,19,Yes,100,3.9702132665609415,milos kerkez,12,False,12,8.029786733439058
+Lucas Digne,DEF,3.77449776977955,19,Yes,100,3.77449776977955,lucas digne,2,False,2,-1.77449776977955
+William Saliba,DEF,3.544311906486985,19,Yes,100,3.544311906486985,william saliba,2,False,2,-1.544311906486985
+Antonee Robinson,DEF,3.854878297940597,19,Yes,100,3.854878297940597,antonee robinson,1,False,1,-2.854878297940597
+Ezri Konsa Ngoyo,DEF,3.473562379391164,19,Yes,100,3.473562379391164,ezri konsa ngoyo,2,False,2,-1.473562379391164
+Cole Palmer,MID,6.450383056245563,19,Yes,100,6.450383056245563,cole palmer,10,False,10,3.5496169437544367
+Mohamed Salah,MID,9.332655311522297,19,Yes,100,9.332655311522297,mohamed salah,7,True,14,-2.3326553115222968
+Morgan Rogers,MID,4.668567301128525,19,Yes,100,4.668567301128525,morgan rogers,0,False,0,-4.668567301128525
+Ollie Watkins,FWD,3.831322152440384,19,Yes,100,3.831322152440384,ollie watkins,2,False,2,-1.831322152440384
+Alexander Isak,FWD,5.880978847668092,19,Yes,100,5.880978847668092,alexander isak,7,False,7,1.119021152331908

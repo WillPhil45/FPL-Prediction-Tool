@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.8105735782931487,17,Yes,100,3.8105735782931487,david raya martin,6,False,6,2.1894264217068513
+William Saliba,DEF,4.222055046299016,17,Yes,100,4.222055046299016,william saliba,7,False,7,2.7779449537009837
+Jan Bednarek,DEF,4.410587931119547,17,Yes,100,4.410587931119547,jan bednarek,2,False,2,-2.4105879311195473
+Virgil van Dijk,DEF,4.385227210946927,17,Yes,100,4.385227210946927,virgil van dijk,2,False,2,-2.385227210946927
+Cole Palmer,MID,6.226633577860622,17,Yes,100,6.226633577860622,cole palmer,10,False,10,3.773366422139378
+Mohamed Salah,MID,7.143640383460923,17,Yes,100,7.143640383460923,mohamed salah,9,True,18,1.856359616539077
+Phil Foden,MID,4.671602228032379,17,Yes,100,4.671602228032379,phil foden,2,False,2,-2.671602228032379
+Bukayo Saka,MID,4.779489212094488,17,Yes,100,4.779489212094488,bukayo saka,0,False,0,-4.779489212094488
+João Pedro Junqueira de Jesus,FWD,3.489472558851979,17,Yes,100,3.489472558851979,joão pedro junqueira de jesus,2,False,2,-1.489472558851979
+Nicolas Jackson,FWD,3.497325606750897,17,Yes,100,3.497325606750897,nicolas jackson,2,False,2,-1.497325606750897
+Alexander Isak,FWD,5.6167285635827096,17,Yes,100,5.6167285635827096,alexander isak,8,False,8,2.3832714364172904

@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Son Heung-min",
+        "Alexander Isak"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "3-5-2",
+    "predicted_total": 48.8118774742764,
+    "actual_total": 124.0,
+    "point_differential": 75.1881225257236,
+    "adjusted_total": 48.8118774742764,
+    "adjusted_differential": 75.1881225257236
+}

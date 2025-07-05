@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Jo\u0161ko Gvardiol",
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "5-3-2",
+    "predicted_total": 52.098933722950555,
+    "actual_total": 114.0,
+    "point_differential": 61.901066277049445,
+    "adjusted_total": 52.098933722950555,
+    "adjusted_differential": 61.901066277049445
+}

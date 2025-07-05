@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,3.8787996768951416,9,Yes,100,3.8787996768951416,ederson santana de moraes,2,False,2,-1.8787996768951416
+Virgil van Dijk,DEF,4.047842502593994,9,Yes,100,4.047842502593994,virgil van dijk,5,False,5,0.9521574974060059
+Antonee Robinson,DEF,3.4517879486083984,9,Yes,100,3.4517879486083984,antonee robinson,6,False,6,2.5482120513916016
+Murillo Santiago Costa dos Santos,DEF,3.602035522460937,9,Yes,100,3.602035522460937,murillo santiago costa dos santos,6,False,6,2.397964477539063
+Ibrahima Konaté,DEF,3.4970595836639404,9,Yes,100,3.4970595836639404,ibrahima konaté,1,False,1,-2.4970595836639404
+Michael Keane,DEF,3.804511070251465,9,Yes,100,3.804511070251465,michael keane,1,False,1,-2.804511070251465
+Phil Foden,MID,5.1757001876831055,9,Yes,100,5.1757001876831055,phil foden,2,False,2,-3.1757001876831055
+Cole Palmer,MID,6.526120185852051,9,Yes,100,6.526120185852051,cole palmer,3,False,3,-3.526120185852051
+Bryan Mbeumo,MID,6.566195487976074,9,Yes,100,6.566195487976074,bryan mbeumo,3,True,6,-3.566195487976074
+Jamie Vardy,FWD,3.330272912979126,9,Yes,100,3.330272912979126,jamie vardy,5,False,5,1.669727087020874
+Raúl Jiménez,FWD,3.588400363922119,9,Yes,100,3.588400363922119,raúl jiménez,2,False,2,-1.5884003639221191

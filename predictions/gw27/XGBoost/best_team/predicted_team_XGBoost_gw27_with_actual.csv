@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.451064109802246,27,Yes,100,4.451064109802246,david raya martin,3,False,3,-1.451064109802246
+Daniel Muñoz,DEF,4.4466705322265625,27,Yes,100,4.4466705322265625,daniel muñoz,6,False,6,1.5533294677734375
+Marc Guéhi,DEF,4.012081623077393,27,Yes,100,4.012081623077393,marc guéhi,5,False,5,0.9879183769226074
+Virgil van Dijk,DEF,3.696841716766357,27,Yes,100,3.696841716766357,virgil van dijk,2,False,2,-1.696841716766357
+Christopher Nkunku,MID,4.368788719177246,27,Yes,100,4.368788719177246,christopher nkunku,3,False,3,-1.368788719177246
+Cole Palmer,MID,6.383601188659668,27,Yes,100,6.383601188659668,cole palmer,1,False,1,-5.383601188659668
+Mohamed Salah,MID,8.332551956176758,27,Yes,100,8.332551956176758,mohamed salah,15,True,30,6.667448043823242
+Bryan Mbeumo,MID,5.812781810760498,27,Yes,100,5.812781810760498,bryan mbeumo,2,False,2,-3.812781810760498
+Phil Foden,MID,5.764310359954834,27,Yes,100,5.764310359954834,phil foden,3,False,3,-2.764310359954834
+Jean-Philippe Mateta,FWD,4.212705612182617,27,Yes,100,4.212705612182617,jean-philippe mateta,0,False,0,-4.212705612182617
+Alexander Isak,FWD,4.789790153503418,27,Yes,100,4.789790153503418,alexander isak,2,False,2,-2.789790153503418

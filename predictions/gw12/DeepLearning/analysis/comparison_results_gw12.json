@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Virgil van Dijk",
+        "Murillo Santiago Costa dos Santos"
+    ],
+    "predicted_formation": "5-3-2",
+    "actual_formation": "5-3-2",
+    "predicted_total": 45.322914361953735,
+    "actual_total": 133.0,
+    "point_differential": 87.67708563804626,
+    "adjusted_total": 45.322914361953735,
+    "adjusted_differential": 87.67708563804626
+}

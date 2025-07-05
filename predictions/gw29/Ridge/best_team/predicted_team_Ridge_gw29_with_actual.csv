@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bernd Leno,GK,4.080515258520757,29,Yes,100,4.080515258520757,bernd leno,2,False,2,-2.080515258520757
+Milos Kerkez,DEF,3.801224506704179,29,Yes,100,3.801224506704179,milos kerkez,1,False,1,-2.801224506704179
+Joško Gvardiol,DEF,3.623727435186809,29,Yes,100,3.623727435186809,joško gvardiol,6,False,6,2.376272564813191
+Dean Huijsen,DEF,3.0169798100515672,29,Yes,100,3.0169798100515672,dean huijsen,0,False,0,-3.0169798100515672
+William Saliba,DEF,3.545945925895827,29,Yes,100,3.545945925895827,william saliba,2,False,2,-1.5459459258958268
+Illia Zabarnyi,DEF,2.814675796355916,29,Yes,100,2.814675796355916,illia zabarnyi,1,False,1,-1.8146757963559161
+Bryan Mbeumo,MID,5.35740407895577,29,Yes,100,5.35740407895577,bryan mbeumo,8,True,16,2.6425959210442302
+Son Heung-min,MID,4.231509031929957,29,Yes,100,4.231509031929957,son heung-min,2,False,2,-2.2315090319299573
+Bruno Borges Fernandes,MID,5.005054425733895,29,Yes,100,5.005054425733895,bruno borges fernandes,2,False,2,-3.0050544257338947
+Yoane Wissa,FWD,4.163237175375369,29,Yes,100,4.163237175375369,yoane wissa,5,False,5,0.836762824624631
+Jørgen Strand Larsen,FWD,3.976730216227399,29,Yes,100,3.976730216227399,jørgen strand larsen,9,False,9,5.0232697837726015

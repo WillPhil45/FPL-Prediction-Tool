@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.5469400512154623,29,Yes,100,3.5469400512154623,david raya martin,2,False,2,-1.5469400512154623
+Joško Gvardiol,DEF,3.760280892004648,29,Yes,100,3.760280892004648,joško gvardiol,6,False,6,2.239719107995352
+Antonee Robinson,DEF,3.5657220507121177,29,Yes,100,3.5657220507121177,antonee robinson,1,False,1,-2.5657220507121177
+Milos Kerkez,DEF,3.830979766281288,29,Yes,100,3.830979766281288,milos kerkez,1,False,1,-2.830979766281288
+William Saliba,DEF,3.6337908298044654,29,Yes,100,3.6337908298044654,william saliba,2,False,2,-1.6337908298044654
+Phil Foden,MID,4.425493935435556,29,Yes,100,4.425493935435556,phil foden,0,False,0,-4.425493935435556
+Morgan Gibbs-White,MID,4.781707043258285,29,Yes,100,4.781707043258285,morgan gibbs-white,3,False,3,-1.7817070432582849
+Bruno Borges Fernandes,MID,5.17946747456621,29,Yes,100,5.17946747456621,bruno borges fernandes,2,False,2,-3.17946747456621
+Bryan Mbeumo,MID,5.663165515168266,29,Yes,100,5.663165515168266,bryan mbeumo,8,True,16,2.3368344848317344
+Jørgen Strand Larsen,FWD,3.8512783161500574,29,Yes,100,3.8512783161500574,jørgen strand larsen,9,False,9,5.148721683849942
+Chris Wood,FWD,5.61856658866073,29,Yes,75,4.213924941495548,chris wood,0,False,0,-5.61856658866073

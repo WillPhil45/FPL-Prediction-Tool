@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Alexander Isak",
+        "Cody Gakpo"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 55.51671263534747,
+    "actual_total": 134.0,
+    "point_differential": 78.48328736465254,
+    "adjusted_total": 55.51671263534747,
+    "adjusted_differential": 78.48328736465254
+}

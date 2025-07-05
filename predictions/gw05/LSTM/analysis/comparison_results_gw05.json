@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Ollie Watkins",
+        "Cole Palmer"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "3-5-2",
+    "predicted_total": 75.20949745178223,
+    "actual_total": 135.0,
+    "point_differential": 59.79050254821777,
+    "adjusted_total": 73.88687360286713,
+    "adjusted_differential": 61.11312639713287
+}

@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Mohamed Salah",
+        "Bruno Borges Fernandes"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 45.04048466682434,
+    "actual_total": 115.0,
+    "point_differential": 69.95951533317566,
+    "adjusted_total": 45.04048466682434,
+    "adjusted_differential": 69.95951533317566
+}

@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Alexander Isak",
+        "Chris Wood"
+    ],
+    "predicted_formation": "3-4-3",
+    "actual_formation": "4-3-3",
+    "predicted_total": 80.72336292266846,
+    "actual_total": 134.0,
+    "point_differential": 53.27663707733154,
+    "adjusted_total": 79.33240973949432,
+    "adjusted_differential": 54.667590260505676
+}

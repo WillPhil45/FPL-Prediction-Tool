@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Mohamed Salah"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "3-5-2",
+    "predicted_total": 85.18313884735107,
+    "actual_total": 131.0,
+    "point_differential": 45.816861152648926,
+    "adjusted_total": 85.18313884735107,
+    "adjusted_differential": 45.816861152648926
+}

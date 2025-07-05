@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,4.112895011901856,2,Yes,100,4.112895011901856,jordan pickford,2,False,2,-2.1128950119018564
+William Saliba,DEF,3.686098098754883,2,Yes,100,3.686098098754883,william saliba,2,False,2,-1.6860980987548828
+Andrew Robertson,DEF,5.224279880523682,2,Yes,100,5.224279880523682,andrew robertson,6,False,6,0.7757201194763184
+Rúben Gato Alves Dias,DEF,3.802809238433838,2,Yes,100,3.802809238433838,rúben gato alves dias,0,False,0,-3.802809238433838
+Joško Gvardiol,DEF,4.266115188598633,2,Yes,100,4.266115188598633,joško gvardiol,2,False,2,-2.266115188598633
+Malo Gusto,DEF,3.4370152950286865,2,Yes,100,3.4370152950286865,malo gusto,2,False,2,-1.4370152950286865
+Bukayo Saka,MID,5.948185443878174,2,Yes,100,5.948185443878174,bukayo saka,6,False,6,0.05181455612182617
+Mohamed Salah,MID,6.392485618591309,2,Yes,100,6.392485618591309,mohamed salah,17,True,34,10.607514381408691
+Danny Welbeck,FWD,5.538079738616943,2,Yes,100,5.538079738616943,danny welbeck,2,False,2,-3.5380797386169434
+João Pedro Junqueira de Jesus,FWD,4.911505699157715,2,Yes,100,4.911505699157715,joão pedro junqueira de jesus,8,False,8,3.088494300842285
+Alexander Isak,FWD,4.562132835388184,2,Yes,100,4.562132835388184,alexander isak,9,False,9,4.437867164611816

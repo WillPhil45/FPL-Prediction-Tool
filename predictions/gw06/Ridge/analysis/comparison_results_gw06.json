@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Bukayo Saka"
+    ],
+    "predicted_formation": "4-3-3",
+    "actual_formation": "3-4-3",
+    "predicted_total": 52.57623097947554,
+    "actual_total": 132.0,
+    "point_differential": 79.42376902052446,
+    "adjusted_total": 51.38095828127052,
+    "adjusted_differential": 80.61904171872948
+}

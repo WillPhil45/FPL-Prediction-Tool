@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Mark Flekken,GK,3.614720582962036,6,Yes,100,3.614720582962036,mark flekken,2,False,2,-1.6147205829620361
+William Saliba,DEF,3.6532793045043945,6,Yes,100,3.6532793045043945,william saliba,2,False,2,-1.6532793045043945
+Pedro Porro,DEF,3.4488120079040527,6,Yes,100,3.4488120079040527,pedro porro,1,False,1,-2.4488120079040527
+Ibrahima Konaté,DEF,3.1539931297302246,6,Yes,100,3.1539931297302246,ibrahima konaté,6,False,6,2.8460068702697754
+Bryan Mbeumo,MID,4.886924743652344,6,Yes,100,4.886924743652344,bryan mbeumo,8,False,8,3.1130752563476562
+Mohamed Salah,MID,5.300059795379639,6,Yes,100,5.300059795379639,mohamed salah,3,False,3,-2.3000597953796387
+Bukayo Saka,MID,6.013625621795654,6,Yes,100,6.013625621795654,bukayo saka,16,True,32,9.986374378204346
+Antoine Semenyo,MID,4.422521114349365,6,Yes,100,4.422521114349365,antoine semenyo,2,False,2,-2.4225211143493652
+Cole Palmer,MID,5.800405025482178,6,Yes,100,5.800405025482178,cole palmer,6,False,6,0.19959497451782227
+Francisco Evanilson de Lima Barbosa,FWD,3.577354431152344,6,Yes,100,3.577354431152344,francisco evanilson de lima barbosa,2,False,2,-1.5773544311523442
+Alexander Isak,FWD,3.308886766433716,6,Yes,100,3.308886766433716,alexander isak,0,False,0,-3.308886766433716

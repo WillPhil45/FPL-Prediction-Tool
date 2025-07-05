@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,3.565633535385132,17,Yes,100,3.565633535385132,andré onana,1,False,1,-2.565633535385132
+Pervis Estupiñán,DEF,3.118194580078125,17,Yes,100,3.118194580078125,pervis estupiñán,6,False,6,2.881805419921875
+Virgil van Dijk,DEF,3.511732578277588,17,Yes,100,3.511732578277588,virgil van dijk,2,False,2,-1.511732578277588
+William Saliba,DEF,3.8239355087280273,17,Yes,100,3.8239355087280273,william saliba,7,False,7,3.1760644912719727
+Mohamed Salah,MID,8.091065406799316,17,Yes,100,8.091065406799316,mohamed salah,9,True,18,0.9089345932006836
+Bukayo Saka,MID,4.83363676071167,17,Yes,100,4.83363676071167,bukayo saka,0,False,0,-4.83363676071167
+Bryan Mbeumo,MID,4.515383243560791,17,Yes,100,4.515383243560791,bryan mbeumo,3,False,3,-1.515383243560791
+Cole Palmer,MID,6.464417934417725,17,Yes,100,6.464417934417725,cole palmer,10,False,10,3.5355820655822754
+Alexander Isak,FWD,4.112671852111816,17,Yes,100,4.112671852111816,alexander isak,8,False,8,3.8873281478881836
+Jørgen Strand Larsen,FWD,3.022135734558105,17,Yes,100,3.022135734558105,jørgen strand larsen,2,False,2,-1.022135734558105
+Dominic Solanke-Mitchell,FWD,3.55808687210083,17,Yes,100,3.55808687210083,dominic solanke-mitchell,2,False,2,-1.55808687210083

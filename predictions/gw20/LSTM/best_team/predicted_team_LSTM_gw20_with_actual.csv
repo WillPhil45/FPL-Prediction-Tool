@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,5.5251784324646,20,Yes,100,5.5251784324646,david raya martin,2,False,2,-3.5251784324645996
+William Saliba,DEF,3.366493225097656,20,Yes,100,3.366493225097656,william saliba,2,False,2,-1.3664932250976558
+Vladimír Coufal,DEF,3.341114044189453,20,Yes,100,3.341114044189453,vladimír coufal,0,False,0,-3.341114044189453
+Antonee Robinson,DEF,3.1493353843688965,20,Yes,100,3.1493353843688965,antonee robinson,7,False,7,3.8506646156311035
+Cole Palmer,MID,13.086181640625,20,Yes,100,13.086181640625,cole palmer,10,False,10,-3.086181640625
+Bryan Mbeumo,MID,7.702312469482422,20,Yes,100,7.702312469482422,bryan mbeumo,2,False,2,-5.702312469482422
+Mohamed Salah,MID,15.368646621704102,20,Yes,100,15.368646621704102,mohamed salah,2,True,4,-13.368646621704102
+Bruno Borges Fernandes,MID,11.250688552856444,20,Yes,100,11.250688552856444,bruno borges fernandes,4,False,4,-7.2506885528564435
+Chris Wood,FWD,5.563812732696533,20,Yes,75,4.1728595495224,chris wood,9,False,9,3.436187267303467
+Ollie Watkins,FWD,4.389415264129639,20,Yes,100,4.389415264129639,ollie watkins,8,False,8,3.6105847358703613
+Alexander Isak,FWD,7.980184555053711,20,Yes,100,7.980184555053711,alexander isak,16,False,16,8.019815444946289

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,3.4323544354778224,15,Yes,100,3.4323544354778224,matz sels,2,False,2,-1.4323544354778224
+Milos Kerkez,DEF,4.247306164196717,15,Yes,100,4.247306164196717,milos kerkez,2,False,2,-2.2473061641967167
+Illia Zabarnyi,DEF,3.459655042364237,15,Yes,100,3.459655042364237,illia zabarnyi,2,False,2,-1.4596550423642372
+William Saliba,DEF,4.413934187159481,15,Yes,100,4.413934187159481,william saliba,6,False,6,1.586065812840519
+Martin Ødegaard,MID,4.216725382014529,15,Yes,100,4.216725382014529,martin ødegaard,3,False,3,-1.2167253820145287
+Antoine Semenyo,MID,4.29172032184169,15,Yes,100,4.29172032184169,antoine semenyo,3,False,3,-1.29172032184169
+Bukayo Saka,MID,5.6777282695251445,15,Yes,100,5.6777282695251445,bukayo saka,3,False,3,-2.6777282695251445
+Son Heung-min,MID,4.756960225680767,15,Yes,100,4.756960225680767,son heung-min,14,False,14,9.243039774319232
+Cole Palmer,MID,6.82419168542201,15,Yes,100,6.82419168542201,cole palmer,3,True,6,-3.8241916854220097
+Alexander Isak,FWD,3.882044817474588,15,Yes,100,3.882044817474588,alexander isak,11,False,11,7.117955182525412
+Dominic Solanke-Mitchell,FWD,3.6092569431194175,15,Yes,100,3.6092569431194175,dominic solanke-mitchell,5,False,5,1.3907430568805825

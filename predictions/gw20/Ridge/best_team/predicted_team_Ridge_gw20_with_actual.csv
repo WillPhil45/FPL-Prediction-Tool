@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.139756571121161,20,Yes,100,4.139756571121161,david raya martin,2,False,2,-2.1397565711211612
+Milos Kerkez,DEF,3.1556667993925926,20,Yes,100,3.1556667993925926,milos kerkez,1,False,1,-2.1556667993925926
+Antonee Robinson,DEF,3.4178332688594097,20,Yes,100,3.4178332688594097,antonee robinson,7,False,7,3.5821667311405903
+William Saliba,DEF,3.675537249623174,20,Yes,100,3.675537249623174,william saliba,2,False,2,-1.675537249623174
+Bryan Mbeumo,MID,5.81347759586911,20,Yes,100,5.81347759586911,bryan mbeumo,2,False,2,-3.8134775958691103
+Bruno Borges Fernandes,MID,4.309092478697817,20,Yes,100,4.309092478697817,bruno borges fernandes,4,False,4,-0.3090924786978171
+Phil Foden,MID,4.097439401903226,20,Yes,100,4.097439401903226,phil foden,15,False,15,10.902560598096773
+Cole Palmer,MID,6.744280227027328,20,Yes,100,6.744280227027328,cole palmer,10,False,10,3.2557197729726717
+Mohamed Salah,MID,8.328919986509518,20,Yes,100,8.328919986509518,mohamed salah,2,True,4,-6.3289199865095185
+Dominic Solanke-Mitchell,FWD,4.5943236419363656,20,Yes,100,4.5943236419363656,dominic solanke-mitchell,0,False,0,-4.5943236419363656
+Alexander Isak,FWD,4.904840132259625,20,Yes,100,4.904840132259625,alexander isak,16,False,16,11.095159867740374

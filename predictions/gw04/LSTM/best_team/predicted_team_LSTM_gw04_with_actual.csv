@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Robert Sánchez,GK,4.922070026397705,4,Yes,100,4.922070026397705,robert sánchez,10,False,10,5.077929973602295
+Fabian Schär,DEF,3.9460253715515137,4,Yes,100,3.9460253715515137,fabian schär,1,False,1,-2.9460253715515137
+Marc Cucurella Saseta,DEF,3.80344295501709,4,Yes,100,3.80344295501709,marc cucurella saseta,5,False,5,1.1965570449829102
+Axel Disasi,DEF,4.257689476013184,4,Yes,100,4.257689476013184,axel disasi,1,False,1,-3.2576894760131836
+Emile Smith Rowe,MID,7.294283390045166,4,Yes,100,7.294283390045166,emile smith rowe,8,False,8,0.705716609954834
+Mohamed Salah,MID,18.06487846374512,4,Yes,100,18.06487846374512,mohamed salah,6,True,12,-12.06487846374512
+Mitoma Kaoru,MID,7.784938812255859,4,Yes,100,7.784938812255859,mitoma kaoru,5,False,5,-2.7849388122558594
+Luis Díaz,MID,13.36257553100586,4,Yes,100,13.36257553100586,luis díaz,16,False,16,2.6374244689941406
+Cole Palmer,MID,8.337157249450684,4,Yes,100,8.337157249450684,cole palmer,8,False,8,-0.3371572494506836
+Ollie Watkins,FWD,4.986086845397949,4,Yes,100,4.986086845397949,ollie watkins,6,False,6,1.0139131546020508
+Danny Welbeck,FWD,5.6022629737854,4,Yes,100,5.6022629737854,danny welbeck,6,False,6,0.3977370262145996

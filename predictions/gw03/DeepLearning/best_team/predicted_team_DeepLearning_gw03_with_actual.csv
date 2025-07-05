@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bernd Leno,GK,3.713467836380005,3,Yes,100,3.713467836380005,bernd leno,2,False,2,-1.7134678363800049
+Virgil van Dijk,DEF,3.372523784637451,3,Yes,100,3.372523784637451,virgil van dijk,2,False,2,-1.3725237846374512
+Joško Gvardiol,DEF,3.8395166397094727,3,Yes,100,3.8395166397094727,joško gvardiol,1,False,1,-2.8395166397094727
+Andrew Robertson,DEF,3.604149341583252,3,Yes,100,3.604149341583252,andrew robertson,1,False,1,-2.604149341583252
+Lewis Dunk,DEF,3.429981231689453,3,Yes,100,3.429981231689453,lewis dunk,6,False,6,2.570018768310547
+Bukayo Saka,MID,5.272607326507568,3,Yes,100,5.272607326507568,bukayo saka,7,False,7,1.7273926734924316
+Kevin De Bruyne,MID,4.8292412757873535,3,Yes,100,4.8292412757873535,kevin de bruyne,2,False,2,-2.8292412757873535
+Cole Palmer,MID,5.0820841789245605,3,Yes,100,5.0820841789245605,cole palmer,3,False,3,-2.0820841789245605
+Mohamed Salah,MID,6.136317729949951,3,Yes,100,6.136317729949951,mohamed salah,2,True,4,-4.136317729949951
+Ollie Watkins,FWD,3.654597997665405,3,Yes,100,3.654597997665405,ollie watkins,13,False,13,9.345402002334595
+Alexander Isak,FWD,5.859254837036133,3,Yes,100,5.859254837036133,alexander isak,1,False,1,-4.859254837036133

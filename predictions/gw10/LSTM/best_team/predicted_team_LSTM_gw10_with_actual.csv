@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Matz Sels,GK,4.6066083908081055,10,Yes,100,4.6066083908081055,matz sels,2,False,2,-2.6066083908081055
+James Tarkowski,DEF,3.4172348976135254,10,Yes,100,3.4172348976135254,james tarkowski,8,False,8,4.582765102386475
+William Saliba,DEF,3.395329475402832,10,Yes,100,3.395329475402832,william saliba,2,False,2,-1.395329475402832
+Ashley Young,DEF,3.4960832595825195,10,Yes,100,3.4960832595825195,ashley young,5,False,5,1.5039167404174805
+Kyle Walker-Peters,DEF,3.51605224609375,10,Yes,100,3.51605224609375,kyle walker-peters,0,False,0,-3.51605224609375
+Mohamed Salah,MID,13.648174285888672,10,Yes,100,13.648174285888672,mohamed salah,14,True,28,0.3518257141113281
+Bruno Borges Fernandes,MID,7.914379119873047,10,Yes,100,7.914379119873047,bruno borges fernandes,17,False,17,9.085620880126953
+Bryan Mbeumo,MID,8.509851455688477,10,Yes,100,8.509851455688477,bryan mbeumo,5,False,5,-3.5098514556884766
+Dominic Solanke-Mitchell,FWD,3.932437658309937,10,Yes,100,3.932437658309937,dominic solanke-mitchell,2,False,2,-1.932437658309937
+Chris Wood,FWD,5.672122001647949,10,Yes,75,4.254091501235962,chris wood,2,False,2,-3.672122001647949
+Danny Welbeck,FWD,5.658670425415039,10,Yes,100,5.658670425415039,danny welbeck,2,False,2,-3.658670425415039

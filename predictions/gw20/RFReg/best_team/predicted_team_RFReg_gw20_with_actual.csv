@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.5435995635168904,20,Yes,100,3.5435995635168904,david raya martin,2,False,2,-1.5435995635168904
+William Saliba,DEF,4.167883815093662,20,Yes,100,4.167883815093662,william saliba,2,False,2,-2.1678838150936617
+Antonee Robinson,DEF,3.598060225625684,20,Yes,100,3.598060225625684,antonee robinson,7,False,7,3.401939774374316
+James Tarkowski,DEF,3.1456004454839643,20,Yes,100,3.1456004454839643,james tarkowski,2,False,2,-1.1456004454839643
+Bryan Mbeumo,MID,5.732734173651848,20,Yes,100,5.732734173651848,bryan mbeumo,2,False,2,-3.7327341736518482
+Bruno Borges Fernandes,MID,4.411716642921811,20,Yes,100,4.411716642921811,bruno borges fernandes,4,False,4,-0.4117166429218111
+Jacob Murphy,MID,4.54036778075764,20,Yes,100,4.54036778075764,jacob murphy,3,False,3,-1.5403677807576397
+Mohamed Salah,MID,7.439050812219395,20,Yes,100,7.439050812219395,mohamed salah,2,True,4,-5.439050812219395
+Cole Palmer,MID,5.590267425547687,20,Yes,100,5.590267425547687,cole palmer,10,False,10,4.409732574452313
+Alexander Isak,FWD,6.980058511305608,20,Yes,100,6.980058511305608,alexander isak,16,False,16,9.019941488694393
+Nicolas Jackson,FWD,3.823365981365547,20,Yes,100,3.823365981365547,nicolas jackson,4,False,4,0.17663401863445305

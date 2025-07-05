@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,5.568004608154297,27,Yes,100,5.568004608154297,david raya martin,3,False,3,-2.568004608154297
+Ibrahima Konaté,DEF,3.396918296813965,27,Yes,100,3.396918296813965,ibrahima konaté,2,False,2,-1.3969182968139648
+William Saliba,DEF,4.078720569610596,27,Yes,100,4.078720569610596,william saliba,2,False,2,-2.0787205696105957
+James Tarkowski,DEF,3.5834827423095703,27,Yes,100,3.5834827423095703,james tarkowski,2,False,2,-1.5834827423095703
+Virgil van Dijk,DEF,3.837027549743652,27,Yes,100,3.837027549743652,virgil van dijk,2,False,2,-1.837027549743652
+Marc Cucurella Saseta,DEF,4.09950065612793,27,Yes,100,4.09950065612793,marc cucurella saseta,15,False,15,10.90049934387207
+Bruno Borges Fernandes,MID,8.898584365844727,27,Yes,100,8.898584365844727,bruno borges fernandes,9,False,9,0.10141563415527344
+Cole Palmer,MID,10.96938705444336,27,Yes,100,10.96938705444336,cole palmer,1,False,1,-9.96938705444336
+Mohamed Salah,MID,16.53738021850586,27,Yes,100,16.53738021850586,mohamed salah,15,True,30,-1.5373802185058594
+Jean-Philippe Mateta,FWD,6.360111236572266,27,Yes,100,6.360111236572266,jean-philippe mateta,0,False,0,-6.360111236572266
+Alexander Isak,FWD,5.256229400634766,27,Yes,100,5.256229400634766,alexander isak,2,False,2,-3.2562294006347656

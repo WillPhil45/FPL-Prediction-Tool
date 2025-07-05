@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.639503534918088,14,Yes,100,3.639503534918088,david raya martin,2,False,2,-1.639503534918088
+James Justin,DEF,3.661686728455174,14,Yes,100,3.661686728455174,james justin,1,False,1,-2.661686728455174
+Adam Smith,DEF,3.9834778357341394,14,Yes,100,3.9834778357341394,adam smith,2,False,2,-1.9834778357341394
+Lucas Digne,DEF,3.778791532928235,14,Yes,100,3.778791532928235,lucas digne,1,False,1,-2.778791532928235
+Aaron Wan-Bissaka,DEF,3.736256868583275,14,Yes,100,3.736256868583275,aaron wan-bissaka,2,False,2,-1.736256868583275
+Cole Palmer,MID,7.042874960280853,14,Yes,100,7.042874960280853,cole palmer,18,True,36,10.957125039719147
+Bukayo Saka,MID,6.151797579154015,14,Yes,100,6.151797579154015,bukayo saka,2,False,2,-4.151797579154015
+Bryan Mbeumo,MID,4.947061667109958,14,Yes,100,4.947061667109958,bryan mbeumo,13,False,13,8.052938332890042
+Ollie Watkins,FWD,3.66053560614336,14,Yes,100,3.66053560614336,ollie watkins,1,False,1,-2.66053560614336
+Alexander Isak,FWD,5.179664181878178,14,Yes,100,5.179664181878178,alexander isak,8,False,8,2.820335818121822
+João Pedro Junqueira de Jesus,FWD,3.604772880782416,14,Yes,100,3.604772880782416,joão pedro junqueira de jesus,2,False,2,-1.604772880782416

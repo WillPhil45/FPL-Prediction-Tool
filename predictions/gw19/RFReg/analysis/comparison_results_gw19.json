@@ -1,0 +1,15 @@
+{
+    "common_players_count": 2,
+    "common_players_percentage": 18.181818181818183,
+    "common_players": [
+        "Milos Kerkez",
+        "Bryan Mbeumo"
+    ],
+    "predicted_formation": "4-4-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 53.07873368762228,
+    "actual_total": 122.0,
+    "point_differential": 68.92126631237772,
+    "adjusted_total": 53.07873368762228,
+    "adjusted_differential": 68.92126631237772
+}

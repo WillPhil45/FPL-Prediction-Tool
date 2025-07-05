@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.997683525085449,17,Yes,100,4.997683525085449,david raya martin,6,False,6,1.0023164749145508
+Rico Lewis,DEF,3.5848631858825684,17,Yes,100,3.5848631858825684,rico lewis,2,False,2,-1.5848631858825684
+William Saliba,DEF,3.5567307472229004,17,Yes,100,3.5567307472229004,william saliba,7,False,7,3.4432692527770996
+Malo Gusto,DEF,3.8456878662109375,17,Yes,100,3.8456878662109375,malo gusto,1,False,1,-2.8456878662109375
+Antonee Robinson,DEF,3.603825569152832,17,Yes,100,3.603825569152832,antonee robinson,1,False,1,-2.603825569152832
+Mohamed Salah,MID,18.30702018737793,17,Yes,100,18.30702018737793,mohamed salah,9,True,18,-9.30702018737793
+Cole Palmer,MID,11.172365188598633,17,Yes,100,11.172365188598633,cole palmer,10,False,10,-1.1723651885986328
+Bruno Borges Fernandes,MID,7.61541223526001,17,Yes,100,7.61541223526001,bruno borges fernandes,-2,False,-2,-9.61541223526001
+Bukayo Saka,MID,8.436445236206055,17,Yes,100,8.436445236206055,bukayo saka,0,False,0,-8.436445236206055
+Alexander Isak,FWD,6.53336763381958,17,Yes,100,6.53336763381958,alexander isak,8,False,8,1.46663236618042
+Yoane Wissa,FWD,3.741965293884277,17,Yes,100,3.741965293884277,yoane wissa,2,False,2,-1.741965293884277

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.989490032196045,6,Yes,100,4.989490032196045,david raya martin,2,False,2,-2.989490032196045
+Cristian Romero,DEF,3.139636516571045,6,Yes,100,3.139636516571045,cristian romero,1,False,1,-2.139636516571045
+Leif Davis,DEF,2.992068290710449,6,Yes,100,2.992068290710449,leif davis,0,False,0,-2.992068290710449
+Gabriel dos Santos Magalhães,DEF,4.284536838531494,6,Yes,75,3.2134026288986206,gabriel dos santos magalhães,2,False,2,-2.284536838531494
+Ibrahima Konaté,DEF,2.9564743041992188,6,Yes,100,2.9564743041992188,ibrahima konaté,6,False,6,3.0435256958007812
+Luis Díaz,MID,15.972742080688477,6,Yes,100,15.972742080688477,luis díaz,1,False,1,-14.972742080688477
+Bukayo Saka,MID,19.950647354125977,6,Yes,100,19.950647354125977,bukayo saka,16,True,32,-3.9506473541259766
+Declan Rice,MID,13.33180809020996,6,Yes,100,13.33180809020996,declan rice,2,False,2,-11.33180809020996
+Nicolas Jackson,FWD,5.082574844360352,6,Yes,100,5.082574844360352,nicolas jackson,2,False,2,-3.0825748443603516
+Dominic Solanke-Mitchell,FWD,3.726197242736816,6,Yes,100,3.726197242736816,dominic solanke-mitchell,5,False,5,1.273802757263184
+Ollie Watkins,FWD,5.109683513641357,6,Yes,100,5.109683513641357,ollie watkins,2,False,2,-3.1096835136413574

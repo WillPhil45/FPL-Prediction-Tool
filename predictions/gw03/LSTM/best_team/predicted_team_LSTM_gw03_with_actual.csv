@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,4.444407939910889,3,Yes,100,4.444407939910889,david raya martin,9,False,9,4.555592060089111
+Lewis Dunk,DEF,3.327359676361084,3,Yes,100,3.327359676361084,lewis dunk,6,False,6,2.672640323638916
+Jan Paul van Hecke,DEF,3.5006866455078125,3,Yes,100,3.5006866455078125,jan paul van hecke,6,False,6,2.4993133544921875
+Rúben Gato Alves Dias,DEF,4.117302894592285,3,Yes,100,4.117302894592285,rúben gato alves dias,1,False,1,-3.117302894592285
+Bukayo Saka,MID,13.72894287109375,3,Yes,100,13.72894287109375,bukayo saka,7,False,7,-6.72894287109375
+Kevin De Bruyne,MID,11.045177459716797,3,Yes,100,11.045177459716797,kevin de bruyne,2,False,2,-9.045177459716797
+Cole Palmer,MID,15.527448654174805,3,Yes,100,15.527448654174805,cole palmer,3,True,6,-12.527448654174805
+Mohamed Salah,MID,15.494657516479492,3,Yes,100,15.494657516479492,mohamed salah,2,False,2,-13.494657516479492
+Danny Welbeck,FWD,5.744964122772217,3,Yes,100,5.744964122772217,danny welbeck,2,False,2,-3.744964122772217
+Ollie Watkins,FWD,4.909916400909424,3,Yes,100,4.909916400909424,ollie watkins,13,False,13,8.090083599090576
+Alexander Isak,FWD,5.351943492889404,3,Yes,100,5.351943492889404,alexander isak,1,False,1,-4.351943492889404

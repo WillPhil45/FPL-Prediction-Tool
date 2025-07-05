@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.640711592943223,25,Yes,100,3.640711592943223,david raya martin,2,False,2,-1.640711592943223
+Daniel Muñoz,DEF,3.7216338231156,25,Yes,100,3.7216338231156,daniel muñoz,13,False,13,9.2783661768844
+William Saliba,DEF,3.66462515097398,25,Yes,100,3.66462515097398,william saliba,2,False,2,-1.66462515097398
+Antonee Robinson,DEF,3.69131670325847,25,Yes,100,3.69131670325847,antonee robinson,1,False,1,-2.69131670325847
+Pedro Porro,DEF,3.5290245394340096,25,Yes,100,3.5290245394340096,pedro porro,1,False,1,-2.5290245394340096
+Mohamed Salah,MID,7.207838747239937,25,Yes,100,7.207838747239937,mohamed salah,14,True,28,6.792161252760063
+Bryan Mbeumo,MID,5.95791790239722,25,Yes,100,5.95791790239722,bryan mbeumo,14,False,14,8.04208209760278
+Mohamed Salah,MID,7.010795281056058,25,Yes,100,7.010795281056058,mohamed salah,14,False,14,6.989204718943942
+Alexander Isak,FWD,5.425905764813908,25,Yes,100,5.425905764813908,alexander isak,13,False,13,7.574094235186092
+Jean-Philippe Mateta,FWD,4.942766335150141,25,Yes,100,4.942766335150141,jean-philippe mateta,5,False,5,0.05723366484985881
+Chris Wood,FWD,5.4129797310674,25,Yes,75,4.05973479830055,chris wood,5,False,5,-0.4129797310674004

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Emiliano Martínez Romero,GK,3.851264557483809,7,Yes,100,3.851264557483809,emiliano martínez romero,8,False,8,4.148735442516191
+Ibrahima Konaté,DEF,3.667874809332096,7,Yes,100,3.667874809332096,ibrahima konaté,1,False,1,-2.667874809332096
+Joško Gvardiol,DEF,3.678512215684366,7,Yes,100,3.678512215684366,joško gvardiol,10,False,10,6.321487784315634
+Virgil van Dijk,DEF,3.714335464383176,7,Yes,100,3.714335464383176,virgil van dijk,2,False,2,-1.714335464383176
+Mohamed Salah,MID,5.973484674348047,7,Yes,100,5.973484674348047,mohamed salah,12,False,12,6.026515325651953
+Bryan Mbeumo,MID,4.955502933614969,7,Yes,100,4.955502933614969,bryan mbeumo,2,False,2,-2.9555029336149694
+Bukayo Saka,MID,6.104791530707098,7,Yes,100,6.104791530707098,bukayo saka,0,False,0,-6.104791530707098
+Cole Palmer,MID,6.625869892373531,7,Yes,100,6.625869892373531,cole palmer,2,True,4,-4.625869892373531
+Jarrod Bowen,MID,4.920272258242146,7,Yes,100,4.920272258242146,jarrod bowen,2,False,2,-2.9202722582421456
+Ollie Watkins,FWD,4.739774772138196,7,Yes,100,4.739774772138196,ollie watkins,8,False,8,3.2602252278618042
+Dominic Solanke-Mitchell,FWD,3.867250614643122,7,Yes,100,3.867250614643122,dominic solanke-mitchell,2,False,2,-1.867250614643122

@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Milos Kerkez"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "5-2-3",
+    "predicted_total": 56.233911752700806,
+    "actual_total": 122.0,
+    "point_differential": 65.7660882472992,
+    "adjusted_total": 56.233911752700806,
+    "adjusted_differential": 65.7660882472992
+}

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.6171140386779,15,Yes,100,3.6171140386779,david raya martin,6,False,6,2.3828859613221
+William Saliba,DEF,3.9487879697320816,15,Yes,100,3.9487879697320816,william saliba,6,False,6,2.0512120302679184
+Marc Cucurella Saseta,DEF,3.355183220242618,15,Yes,100,3.355183220242618,marc cucurella saseta,5,False,5,1.6448167797573818
+Pedro Porro,DEF,3.0685287556514087,15,Yes,100,3.0685287556514087,pedro porro,6,False,6,2.9314712443485913
+Joško Gvardiol,DEF,2.961495612711634,15,Yes,100,2.961495612711634,joško gvardiol,7,False,7,4.038504387288366
+Milos Kerkez,DEF,3.205196932845921,15,Yes,100,3.205196932845921,milos kerkez,2,False,2,-1.2051969328459209
+Bukayo Saka,MID,6.167101425280821,15,Yes,100,6.167101425280821,bukayo saka,3,False,3,-3.167101425280821
+Cole Palmer,MID,7.531711745831858,15,Yes,100,7.531711745831858,cole palmer,3,True,6,-4.531711745831858
+Bruno Borges Fernandes,MID,4.599687390018986,15,Yes,100,4.599687390018986,bruno borges fernandes,9,False,9,4.400312609981014
+Jørgen Strand Larsen,FWD,4.114216271099091,15,Yes,100,4.114216271099091,jørgen strand larsen,2,False,2,-2.1142162710990906
+Dominic Solanke-Mitchell,FWD,4.415716244519382,15,Yes,100,4.415716244519382,dominic solanke-mitchell,5,False,5,0.5842837554806177

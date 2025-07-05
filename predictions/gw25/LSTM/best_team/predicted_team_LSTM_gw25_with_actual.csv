@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,5.79207181930542,25,Yes,100,5.79207181930542,david raya martin,2,False,2,-3.79207181930542
+William Saliba,DEF,4.362207889556885,25,Yes,100,4.362207889556885,william saliba,2,False,2,-2.3622078895568848
+Milos Kerkez,DEF,3.7199959754943848,25,Yes,100,3.7199959754943848,milos kerkez,1,False,1,-2.7199959754943848
+Gabriel dos Santos Magalhães,DEF,4.456820011138916,25,Yes,75,3.342615008354187,gabriel dos santos magalhães,2,False,2,-2.456820011138916
+Mohamed Salah,MID,12.510082244873049,25,Yes,100,12.510082244873049,mohamed salah,14,False,14,1.4899177551269513
+Cole Palmer,MID,8.672002792358398,25,Yes,100,8.672002792358398,cole palmer,2,False,2,-6.672002792358398
+Justin Kluivert,MID,10.954509735107422,25,Yes,75,8.215882301330566,justin kluivert,2,False,2,-8.954509735107422
+Mohamed Salah,MID,16.46124839782715,25,Yes,100,16.46124839782715,mohamed salah,14,True,28,-2.4612483978271484
+Morgan Rogers,MID,8.426776885986328,25,Yes,100,8.426776885986328,morgan rogers,2,False,2,-6.426776885986328
+Jean-Philippe Mateta,FWD,6.377258777618408,25,Yes,100,6.377258777618408,jean-philippe mateta,5,False,5,-1.3772587776184082
+Alexander Isak,FWD,6.029964923858643,25,Yes,100,6.029964923858643,alexander isak,13,False,13,6.970035076141357

@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Cole Palmer"
+    ],
+    "predicted_formation": "3-4-3",
+    "actual_formation": "4-3-3",
+    "predicted_total": 48.616894006729126,
+    "actual_total": 111.0,
+    "point_differential": 62.383105993270874,
+    "adjusted_total": 48.616894006729126,
+    "adjusted_differential": 62.383105993270874
+}

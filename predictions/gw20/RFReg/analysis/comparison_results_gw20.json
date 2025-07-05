@@ -1,0 +1,14 @@
+{
+    "common_players_count": 1,
+    "common_players_percentage": 9.090909090909092,
+    "common_players": [
+        "Alexander Isak"
+    ],
+    "predicted_formation": "3-5-2",
+    "actual_formation": "4-3-3",
+    "predicted_total": 52.97270537748974,
+    "actual_total": 134.0,
+    "point_differential": 81.02729462251025,
+    "adjusted_total": 52.97270537748974,
+    "adjusted_differential": 81.02729462251025
+}

@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.697106505045086,18,Yes,100,3.697106505045086,david raya martin,2,False,2,-1.697106505045086
+William Saliba,DEF,4.359590727360351,18,Yes,100,4.359590727360351,william saliba,2,False,2,-2.3595907273603514
+Andrew Robertson,DEF,4.081889410227777,18,Yes,100,4.081889410227777,andrew robertson,6,False,6,1.9181105897722226
+Marc Guéhi,DEF,4.125379846000088,18,Yes,100,4.125379846000088,marc guéhi,0,False,0,-4.125379846000088
+Milos Kerkez,DEF,3.65114828024848,18,Yes,100,3.65114828024848,milos kerkez,1,False,1,-2.65114828024848
+Virgil van Dijk,DEF,3.9141148598720217,18,Yes,100,3.9141148598720217,virgil van dijk,6,False,6,2.0858851401279783
+Mohamed Salah,MID,9.213953686799174,18,Yes,100,9.213953686799174,mohamed salah,16,True,32,6.786046313200826
+Cole Palmer,MID,6.043728445899545,18,Yes,100,6.043728445899545,cole palmer,2,False,2,-4.043728445899545
+Son Heung-min,MID,4.857733981013564,18,Yes,100,4.857733981013564,son heung-min,0,False,0,-4.857733981013564
+Alexander Isak,FWD,6.020041087342221,18,Yes,100,6.020041087342221,alexander isak,7,False,7,0.9799589126577786
+Cody Gakpo,FWD,3.470671958557843,18,Yes,100,3.470671958557843,cody gakpo,5,False,5,1.5293280414421568

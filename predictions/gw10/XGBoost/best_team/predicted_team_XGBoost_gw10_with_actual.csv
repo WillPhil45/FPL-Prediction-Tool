@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Nick Pope,GK,4.111912727355957,10,Yes,100,4.111912727355957,nick pope,2,False,2,-2.111912727355957
+Michael Keane,DEF,3.3590104579925537,10,Yes,100,3.3590104579925537,michael keane,0,False,0,-3.3590104579925537
+Murillo Santiago Costa dos Santos,DEF,3.136310338973999,10,Yes,100,3.136310338973999,murillo santiago costa dos santos,7,False,7,3.863689661026001
+Virgil van Dijk,DEF,3.282369375228882,10,Yes,100,3.282369375228882,virgil van dijk,6,False,6,2.717630624771118
+Rayan Aït-Nouri,DEF,3.2029154300689697,10,Yes,100,3.2029154300689697,rayan aït-nouri,6,False,6,2.7970845699310303
+Mohamed Salah,MID,5.412787437438965,10,Yes,100,5.412787437438965,mohamed salah,14,False,14,8.587212562561035
+Bryan Mbeumo,MID,4.689452171325684,10,Yes,100,4.689452171325684,bryan mbeumo,5,False,5,0.3105478286743164
+Son Heung-min,MID,5.236100673675537,10,Yes,100,5.236100673675537,son heung-min,2,False,2,-3.236100673675537
+Cole Palmer,MID,6.831758499145508,10,Yes,100,6.831758499145508,cole palmer,2,True,4,-4.831758499145508
+Dominic Solanke-Mitchell,FWD,3.846438407897949,10,Yes,100,3.846438407897949,dominic solanke-mitchell,2,False,2,-1.8464384078979492
+Danny Welbeck,FWD,3.3517606258392334,10,Yes,100,3.3517606258392334,danny welbeck,2,False,2,-1.3517606258392334

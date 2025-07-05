@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Jordan Pickford,GK,4.266678333282471,20,Yes,100,4.266678333282471,jordan pickford,1,False,1,-3.2666783332824707
+Joško Gvardiol,DEF,3.2894763946533203,20,Yes,100,3.2894763946533203,joško gvardiol,1,False,1,-2.2894763946533203
+Tino Livramento,DEF,3.0963239669799805,20,Yes,100,3.0963239669799805,tino livramento,6,False,6,2.9036760330200195
+William Saliba,DEF,3.78913688659668,20,Yes,100,3.78913688659668,william saliba,2,False,2,-1.7891368865966801
+Bryan Mbeumo,MID,5.06463623046875,20,Yes,100,5.06463623046875,bryan mbeumo,2,False,2,-3.06463623046875
+Cole Palmer,MID,6.347900867462158,20,Yes,100,6.347900867462158,cole palmer,10,False,10,3.652099132537842
+Jacob Murphy,MID,3.8016703128814697,20,Yes,100,3.8016703128814697,jacob murphy,3,False,3,-0.8016703128814697
+Mohamed Salah,MID,6.9797444343566895,20,Yes,100,6.9797444343566895,mohamed salah,2,True,4,-4.9797444343566895
+Dominic Solanke-Mitchell,FWD,3.825932502746582,20,Yes,100,3.825932502746582,dominic solanke-mitchell,0,False,0,-3.825932502746582
+Niclas Füllkrug,FWD,3.407257318496704,20,Yes,100,3.407257318496704,niclas füllkrug,0,False,0,-3.407257318496704
+Alexander Isak,FWD,5.746843338012695,20,Yes,100,5.746843338012695,alexander isak,16,False,16,10.253156661987305

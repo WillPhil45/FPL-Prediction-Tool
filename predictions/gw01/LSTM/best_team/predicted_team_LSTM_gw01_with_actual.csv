@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Ederson Santana de Moraes,GK,4.083765983581543,1,Yes,100,4.083765983581543,ederson santana de moraes,2,False,2,-2.083765983581543
+Andrew Robertson,DEF,4.2274346351623535,1,Yes,100,4.2274346351623535,andrew robertson,6,False,6,1.7725653648376465
+Oleksandr Zinchenko,DEF,4.189949989318848,1,Yes,100,4.189949989318848,oleksandr zinchenko,0,False,0,-4.189949989318848
+Virgil van Dijk,DEF,4.332267761230469,1,Yes,100,4.332267761230469,virgil van dijk,7,False,7,2.6677322387695312
+Rúben Gato Alves Dias,DEF,4.156296253204346,1,Yes,100,4.156296253204346,rúben gato alves dias,1,False,1,-3.1562962532043457
+Lewis Dunk,DEF,4.126430511474609,1,Yes,100,4.126430511474609,lewis dunk,2,False,2,-2.1264305114746094
+Mohamed Salah,MID,5.33614444732666,1,Yes,100,5.33614444732666,mohamed salah,10,False,10,4.66385555267334
+Bukayo Saka,MID,5.417929649353027,1,Yes,100,5.417929649353027,bukayo saka,6,True,12,0.5820703506469727
+Rodrigo Muniz Carvalho,FWD,3.450955629348755,1,Yes,100,3.450955629348755,rodrigo muniz carvalho,2,False,2,-1.4509556293487549
+Alexander Isak,FWD,4.474305152893066,1,Yes,100,4.474305152893066,alexander isak,2,False,2,-2.4743051528930664
+Danny Welbeck,FWD,3.4735138416290283,1,Yes,100,3.4735138416290283,danny welbeck,9,False,9,5.526486158370972

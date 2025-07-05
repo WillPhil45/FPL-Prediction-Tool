@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,2.5111883869529503,1,Yes,100,2.5111883869529503,david raya martin,10,False,10,7.48881161304705
+Andrew Robertson,DEF,3.3873300287423973,1,Yes,100,3.3873300287423973,andrew robertson,6,False,6,2.6126699712576027
+Pedro Porro,DEF,4.648676336261136,1,Yes,100,4.648676336261136,pedro porro,6,False,6,1.3513236637388637
+Joško Gvardiol,DEF,3.99669869077516,1,Yes,100,3.99669869077516,joško gvardiol,2,False,2,-1.99669869077516
+Mohamed Salah,MID,4.89806614639193,1,Yes,100,4.89806614639193,mohamed salah,10,False,10,5.10193385360807
+Bukayo Saka,MID,4.740253306420159,1,Yes,100,4.740253306420159,bukayo saka,6,False,6,1.2597466935798414
+Luis Díaz,MID,4.224891099407824,1,Yes,100,4.224891099407824,luis díaz,14,False,14,9.775108900592176
+Gabriel Martinelli Silva,MID,4.048857457436147,1,Yes,100,4.048857457436147,gabriel martinelli silva,3,False,3,-1.0488574574361467
+Dominic Solanke-Mitchell,FWD,4.550229149565454,1,Yes,100,4.550229149565454,dominic solanke-mitchell,0,False,0,-4.550229149565454
+Danny Welbeck,FWD,4.72097625090638,1,Yes,100,4.72097625090638,danny welbeck,9,False,9,4.27902374909362
+Alexander Isak,FWD,4.986865156012076,1,Yes,100,4.986865156012076,alexander isak,2,True,4,-2.986865156012076

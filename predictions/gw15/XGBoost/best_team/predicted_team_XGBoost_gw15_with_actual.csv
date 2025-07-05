@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+David Raya Martin,GK,3.706024408340454,15,Yes,100,3.706024408340454,david raya martin,6,False,6,2.293975591659546
+Jakub Kiwior,DEF,3.5693447589874268,15,Yes,100,3.5693447589874268,jakub kiwior,0,False,0,-3.5693447589874268
+Milos Kerkez,DEF,4.428582668304443,15,Yes,100,4.428582668304443,milos kerkez,2,False,2,-2.4285826683044434
+Jurriën Timber,DEF,4.447864055633545,15,Yes,75,3.3358980417251587,jurriën timber,6,False,6,1.552135944366455
+Illia Zabarnyi,DEF,3.527951002120972,15,Yes,100,3.527951002120972,illia zabarnyi,2,False,2,-1.5279510021209721
+William Saliba,DEF,4.823299407958984,15,Yes,100,4.823299407958984,william saliba,6,False,6,1.1767005920410156
+Cole Palmer,MID,6.775906562805176,15,Yes,100,6.775906562805176,cole palmer,3,True,6,-3.775906562805176
+Jarrod Bowen,MID,4.2427239418029785,15,Yes,100,4.2427239418029785,jarrod bowen,2,False,2,-2.2427239418029785
+Jørgen Strand Larsen,FWD,3.212493658065796,15,Yes,100,3.212493658065796,jørgen strand larsen,2,False,2,-1.212493658065796
+Alexander Isak,FWD,3.383805751800537,15,Yes,100,3.383805751800537,alexander isak,11,False,11,7.616194248199463
+Dominic Solanke-Mitchell,FWD,3.35474157333374,15,Yes,100,3.35474157333374,dominic solanke-mitchell,5,False,5,1.6452584266662602

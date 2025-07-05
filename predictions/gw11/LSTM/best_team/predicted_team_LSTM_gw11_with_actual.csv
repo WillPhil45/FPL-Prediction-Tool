@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+André Onana,GK,4.6995062828063965,11,Yes,100,4.6995062828063965,andré onana,3,False,3,-1.6995062828063965
+Joachim Andersen,DEF,4.737853527069092,11,Yes,100,4.737853527069092,joachim andersen,0,False,0,-4.737853527069092
+James Tarkowski,DEF,4.50801944732666,11,Yes,100,4.50801944732666,james tarkowski,7,False,7,2.49198055267334
+William Saliba,DEF,4.295346260070801,11,Yes,100,4.295346260070801,william saliba,7,False,7,2.704653739929199
+Bukayo Saka,MID,6.37150239944458,11,Yes,100,6.37150239944458,bukayo saka,13,False,13,6.62849760055542
+Bryan Mbeumo,MID,8.935909271240234,11,Yes,100,8.935909271240234,bryan mbeumo,3,False,3,-5.935909271240234
+Mohamed Salah,MID,17.789501190185547,11,Yes,100,17.789501190185547,mohamed salah,13,True,26,-4.789501190185547
+Bruno Borges Fernandes,MID,8.25361156463623,11,Yes,100,8.25361156463623,bruno borges fernandes,2,False,2,-6.2536115646362305
+Cole Palmer,MID,9.248090744018556,11,Yes,100,9.248090744018556,cole palmer,2,False,2,-7.2480907440185565
+Dominic Solanke-Mitchell,FWD,4.516213893890381,11,Yes,100,4.516213893890381,dominic solanke-mitchell,5,False,5,0.48378610610961914
+Alexander Isak,FWD,4.683090686798096,11,Yes,100,4.683090686798096,alexander isak,2,False,2,-2.6830906867980957

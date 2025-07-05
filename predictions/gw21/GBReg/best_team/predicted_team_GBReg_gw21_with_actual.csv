@@ -1,0 +1,12 @@
+name,position_label,predicted_points,gameweek,has_fixture,chance_of_playing_next_round,adjusted_points,name_cleaned,actual_points,is_captain,captain_points,points_diff
+Bart Verbruggen,GK,3.7867267507385294,21,Yes,100,3.7867267507385294,bart verbruggen,2,False,2,-1.7867267507385294
+Tyrick Mitchell,DEF,3.69583403972744,21,Yes,100,3.69583403972744,tyrick mitchell,6,False,6,2.30416596027256
+Nikola Milenković,DEF,3.978619663691912,21,Yes,100,3.978619663691912,nikola milenković,1,False,1,-2.978619663691912
+Aaron Wan-Bissaka,DEF,3.560026744006756,21,Yes,100,3.560026744006756,aaron wan-bissaka,1,False,1,-2.560026744006756
+Kevin De Bruyne,MID,5.010932229866781,21,Yes,100,5.010932229866781,kevin de bruyne,12,False,12,6.989067770133219
+Cole Palmer,MID,5.787299249808555,21,Yes,100,5.787299249808555,cole palmer,2,False,2,-3.787299249808555
+Bryan Mbeumo,MID,4.899380829182621,21,Yes,100,4.899380829182621,bryan mbeumo,2,False,2,-2.899380829182621
+Mohamed Salah,MID,8.442471075832028,21,Yes,100,8.442471075832028,mohamed salah,3,True,6,-5.442471075832028
+Alexander Isak,FWD,4.744503047495281,21,Yes,100,4.744503047495281,alexander isak,2,False,2,-2.7445030474952814
+Cody Gakpo,FWD,4.602406672656889,21,Yes,100,4.602406672656889,cody gakpo,2,False,2,-2.6024066726568886
+Nicolas Jackson,FWD,4.094374403712036,21,Yes,100,4.094374403712036,nicolas jackson,2,False,2,-2.0943744037120364
